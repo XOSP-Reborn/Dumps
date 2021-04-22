@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_no_wifi">WLAN bağlantı kəsildi.</string>
+    <string name="accessibility_qs_edit_add_tile_label">%1$s. Əlavə etmək üçün iki dəfə tıklayın.</string>
+    <string name="accessibility_qs_edit_move_tile">%1$s köçürün</string>
+    <string name="accessibility_qs_edit_remove_tile">%1$s silin</string>
+    <string name="accessibility_qs_edit_tile_add">%2$d pozisiyasına %1$s əlavə edin</string>
+    <string name="accessibility_qs_edit_tile_label">%1$d mövqeyi, %2$s. Redaktə etmək üçün iki dəfə tıklayın.</string>
+    <string name="accessibility_qs_edit_tile_move">%2$d pozisiyasına %1$s köçürün</string>
+    <string name="accessibility_quick_settings_detail">Sürətli Ayarlar, %s.</string>
+    <string name="accessibility_quick_settings_not_available">%s səbəbi ilə əlçatan deyil</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">WLAN deaktivdir.</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">WLAN aktivdir.</string>
+    <string name="accessibility_wifi_off">WLAN sönülüdür.</string>
+    <string name="accessibility_wifi_one_bar">WLAN bir xətdir.</string>
+    <string name="accessibility_wifi_signal_full">WLAN siqnalı tamdır.</string>
+    <string name="accessibility_wifi_three_bars">WLAN üç xətdir.</string>
+    <string name="accessibility_wifi_two_bars">WLAN iki xətdir.</string>
+    <string name="connected_via_app">%1$s ilə qoşulub</string>
+    <string name="mobile_data_always_on_summary">Hətta WLAN aktiv olanda da mobil datanı həmişə aktiv saxlayın (sürətli şəbəkək keçidi üçün).</string>
+    <string name="mobile_data_disable_message">%s ilə data və ya internetə daxil ola bilməyəcəksiniz. İnternet yalnız WLAN ilə əlçatan olacaq.</string>
+    <string name="output_service_bt_wifi">Bluetooth və WLAN</string>
+    <string name="output_service_wifi">WLAN</string>
+    <string name="quick_settings_cast_no_wifi">WLAN qoşulu deyil</string>
+    <string name="quick_settings_wifi_detail_empty_text">Heç bir WLAN şəbəkəsi əlçatan deyil</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">WLAN sönülüdür</string>
+    <string name="quick_settings_wifi_on_label">WLAN Aktiv</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="wifi_disabled_wifi_failure">WLAN Bağlantı Uğursuzluğu</string>
+    <string name="wifi_is_off">WLAN deaktivdir</string>
+    <string name="wifi_scan_throttling">WLAN skanlamasının tənzimlənməsi</string>
+    <string name="wifi_verbose_logging">WLAN Çoxsözlü Girişə icazə verin</string>
+    <string name="wifi_verbose_logging_summary">WLAN giriş səviyyəsini qaldırın, WLAN seçəndə hər SSID RSSI üzrə göstərin</string>
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_no_wifi">WLAN is ontkoppel.</string>
+    <string name="accessibility_qs_edit_add_tile_label">%1$s. Dubbeltik om by te voeg.</string>
+    <string name="accessibility_qs_edit_move_tile">Skuif %1$s</string>
+    <string name="accessibility_qs_edit_remove_tile">Verwyder %1$s</string>
+    <string name="accessibility_qs_edit_tile_add">Voeg %1$s by posisie %2$d</string>
+    <string name="accessibility_qs_edit_tile_label">Posisie %1$d, %2$s. Dubbeltik om te wysig.</string>
+    <string name="accessibility_qs_edit_tile_move">Skuif %1$s na posisie %2$d</string>
+    <string name="accessibility_quick_settings_detail">Kitsinstellings, %s.</string>
+    <string name="accessibility_quick_settings_not_available">Onbeskikbaar weens %s</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">WLAN afgeskakel.</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">WLAN aangeskakel.</string>
+    <string name="accessibility_wifi_off">WLAN af.</string>
+    <string name="accessibility_wifi_one_bar">WLAN een staaf.</string>
+    <string name="accessibility_wifi_signal_full">WLAN-sein vol.</string>
+    <string name="accessibility_wifi_three_bars">WLAN drie stawe.</string>
+    <string name="accessibility_wifi_two_bars">WLAN twee stawe.</string>
+    <string name="connected_via_app">Gekoppel via %1$s</string>
+    <string name="mobile_data_always_on_summary">Hou mobiele data altyd aktief, selfs wanneer WLAN aktief is (vir vinnige netwerkwisseling).</string>
+    <string name="mobile_data_disable_message">Jy sal nie deur %s toegang tot data of die internet hê nie. Internet sal net deur WLAN beskikbaar wees.</string>
+    <string name="output_service_bt_wifi">Bluetooth en WLAN</string>
+    <string name="output_service_wifi">WLAN</string>
+    <string name="quick_settings_cast_no_wifi">WLAN is nie gekoppel nie</string>
+    <string name="quick_settings_wifi_detail_empty_text">Geen WLAN-netwerke beskikbaar nie</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">WLAN af</string>
+    <string name="quick_settings_wifi_on_label">WLAN is aan</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="tether_settings_title_all">USB-verbinding en WLAN-warmkol</string>
+    <string name="tether_settings_title_wifi">WLAN-warmkol</string>
+    <string name="wifi_disabled_wifi_failure">WLAN-verbinding het misluk</string>
+    <string name="wifi_is_off">WLAN is af</string>
+    <string name="wifi_scan_throttling">Regulering van WLAN-opsporing</string>
+    <string name="wifi_verbose_logging">Aktiveer WLAN-woordryke aanmelding</string>
+    <string name="wifi_verbose_logging_summary">Verhoog WLAN-aantekeningvlak, wys per SSID RSSI in WLAN-kieser</string>
+</resources>

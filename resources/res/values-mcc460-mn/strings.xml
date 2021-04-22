@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_no_wifi">WLAN холбогдоогүй байна.</string>
+    <string name="accessibility_qs_edit_add_tile_label">%1$s. Нэмэхийн тулд 2 удаа дарна уу.</string>
+    <string name="accessibility_qs_edit_move_tile">%1$s-г зөөх</string>
+    <string name="accessibility_qs_edit_remove_tile">%1$s-г устгах</string>
+    <string name="accessibility_qs_edit_tile_add">%1$s-г %2$d байрлалд нэмэх</string>
+    <string name="accessibility_qs_edit_tile_label">Байршил %1$d, %2$s. Засахын тулд 2 удаа дарна уу.</string>
+    <string name="accessibility_qs_edit_tile_move">%1$s-г байрлал %2$d руу зөөх</string>
+    <string name="accessibility_quick_settings_detail">Түргэн Тохиргоо, %s.</string>
+    <string name="accessibility_quick_settings_not_available">%s-н улмаас боломжгүй байна</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">WLAN унтраасан.</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">WLAN асаасан.</string>
+    <string name="accessibility_wifi_off">WLAN унтраалттай байна.</string>
+    <string name="accessibility_wifi_one_bar">WLAN сүлжээний дохио нэг баганатай байна.</string>
+    <string name="accessibility_wifi_signal_full">WLAN-н дохио дүүрэн байна.</string>
+    <string name="accessibility_wifi_three_bars">WLAN сүлжээний дохио гурван баганатай байна.</string>
+    <string name="accessibility_wifi_two_bars">WLAN сүлжээний дохио хоёр баганатай байна.</string>
+    <string name="connected_via_app">%1$s-р холбогдсон</string>
+    <string name="mobile_data_always_on_summary">WLAN идэвхтэй байхад ч гэсэн гар утасны датаг идэвхтэй байлгадаг (сүлжээг түргэн солихын тулд).</string>
+    <string name="mobile_data_disable_message">Та %s-р дата эсвэл интернэтэд хандах боломжгүй болно. Интернэтэд зөвхөн WLAN-р холбогдох боломжтой болно.</string>
+    <string name="output_service_bt_wifi">Bluetooth болон WLAN</string>
+    <string name="output_service_wifi">WLAN</string>
+    <string name="quick_settings_cast_no_wifi">WLAN-д холбогдоогүй байна</string>
+    <string name="quick_settings_wifi_detail_empty_text">WLAN сүлжээ байхгүй байна</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">WLAN унтарсан</string>
+    <string name="quick_settings_wifi_on_label">WLAN асаалттай</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="wifi_disabled_wifi_failure">WLAN холболт амжилтгүй</string>
+    <string name="wifi_is_off">WLAN унтраалттай байна</string>
+    <string name="wifi_scan_throttling">WLAN скан бууруулалт</string>
+    <string name="wifi_verbose_logging">WLAN дэлгэрэнгүй лог-г идэвхжүүлэх</string>
+    <string name="wifi_verbose_logging_summary">WLAN лог-н түвшинг нэмэгдүүлэх, WLAN Сонгогч дээрх SSID-д ногдох RSSI-г харуулах</string>
+</resources>

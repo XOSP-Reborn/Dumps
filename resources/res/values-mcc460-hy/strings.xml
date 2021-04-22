@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_no_wifi">WLAN-ը կապակցված չէ:</string>
+    <string name="accessibility_qs_edit_add_tile_label">%1$s: Կրկնակի հպեք՝ ավելացնելու համար:</string>
+    <string name="accessibility_qs_edit_move_tile">Տեղափոխել %1$s սալիկը</string>
+    <string name="accessibility_qs_edit_remove_tile">Հեռացնել %1$s սալիկը</string>
+    <string name="accessibility_qs_edit_tile_add">Ավելացնել %1$s սալիկը դիրք %2$d-ում</string>
+    <string name="accessibility_qs_edit_tile_label">Դիրք %1$d, %2$s: Կրկնակի հպեք՝ փոխելու համար:</string>
+    <string name="accessibility_qs_edit_tile_move">%1$s սալիկը տեղափոխել դիրք %2$d</string>
+    <string name="accessibility_quick_settings_detail">Արագ կարգավորումներ, %s:</string>
+    <string name="accessibility_quick_settings_hotspot_changed_off">Շարժական կապի WLAN ցրիչն անջատվեց:</string>
+    <string name="accessibility_quick_settings_hotspot_changed_on">Շարժական կապի WLAN ցրիչը միացավ:</string>
+    <string name="accessibility_quick_settings_not_available">Անհասանելի է, քանի որ %s</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">WLAN-ն անջատվեց:</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">WLAN-ը միացավ:</string>
+    <string name="accessibility_wifi_off">WLAN-ն անջատված է:</string>
+    <string name="accessibility_wifi_one_bar">WLAN-ի ուժգնությունը՝ մեկ գիծ:</string>
+    <string name="accessibility_wifi_signal_full">WLAN-ի ազդանշանը ուժեղ է:</string>
+    <string name="accessibility_wifi_three_bars">WLAN-ի ուժգնությունը՝ երեք գիծ:</string>
+    <string name="accessibility_wifi_two_bars">WLAN-ի ուժգնությունը՝ երկու գիծ:</string>
+    <string name="connected_via_app">Միացված է %1$s-ի միջոցով</string>
+    <string name="mobile_data_always_on_summary">Միշտ ակտիվացրած պահել բջջային տվյալները, նույնիսկ WLAN-ը միացրած ժամանակ (ցանցերի միջև արագ փոխարկման համար):</string>
+    <string name="mobile_data_disable_message">%s օպերատորի բջջային ինտերնետը հասանելի չի լինի: Համացանցից կարող եք օգտվել միայն WLAN-ի միջոցով:</string>
+    <string name="output_service_bt_wifi">Bluetooth-ը և WLAN</string>
+    <string name="output_service_wifi">WLAN</string>
+    <string name="quick_settings_cast_no_wifi">WLAN-ը միացված չէ</string>
+    <string name="quick_settings_wifi_detail_empty_text">Հասանելի WLAN ցանցեր չկան</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">WLAN-ը անջատված է</string>
+    <string name="quick_settings_wifi_on_label">WLAN-ը միացված է</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="wifi_disabled_wifi_failure">WLAN կապի ձախողում</string>
+    <string name="wifi_is_off">WLAN-ն անջատված է</string>
+    <string name="wifi_scan_throttling">WLAN-ի որոնման սահմանափակում</string>
+    <string name="wifi_verbose_logging">Միացնել WLAN մանրամասն գրանցամատյանները</string>
+    <string name="wifi_verbose_logging_summary">Բարձրացնել մակարդակը, WLAN ընտրիչում ամեն մի SSID-ի համար ցույց տալ RSSI</string>
+</resources>

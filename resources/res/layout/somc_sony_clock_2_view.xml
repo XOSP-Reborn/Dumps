@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sonymobile.keyguard.plugin.sonyclock2.SonyClock2 xmlns:android="http://schemas.android.com/apk/res/android" android:layout_gravity="center_horizontal" android:id="@+id/sony_clock_2_root" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/sony_clock_2_margin_top" android:layout_marginBottom="@dimen/sony_clock_2_margin_bottom" android:layoutDirection="ltr">
+    <com.sonymobile.keyguard.SomcKeyguardClockScaleContainer android:id="@+id/somc_keyguard_clockplugin_scale_container" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <include layout="@layout/somc_sony_clock_2_hour_area"/>
+            <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:id="@+id/somc_sony_clock_2_minute_and_date" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="@dimen/sony_clock_2_minute_margin_start">
+                <include layout="@layout/somc_sony_clock_2_minute_area"/>
+                <TextView android:textSize="@dimen/somc_sony_clock_2_date_digit_size" android:textColor="?attr/wallpaperTextColor" android:id="@+id/somc_sony_clock_2_date" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/sony_clock_2_date_margin_top" style="@style/somc_sony_clock_2_date_style"/>
+                <TextView android:textSize="@dimen/somc_sony_clock_2_date_alarm_size" android:textColor="?attr/wallpaperTextColor" android:id="@+id/somc_sony_clock_2_alarm" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/sony_clock_2_alarm_margin_top" android:drawablePadding="2dp" android:drawableStart="@drawable/somc_sony_clock_2_alarm_icon" style="@style/somc_sony_clock_2_alarm_style"/>
+            </LinearLayout>
+        </LinearLayout>
+    </com.sonymobile.keyguard.SomcKeyguardClockScaleContainer>
+</com.sonymobile.keyguard.plugin.sonyclock2.SonyClock2>

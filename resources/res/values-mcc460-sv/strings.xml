@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_no_wifi">Ingen WLAN-anslutning.</string>
+    <string name="accessibility_qs_edit_add_tile_label">%1$s. Lägg till genom att trycka snabbt två gånger.</string>
+    <string name="accessibility_qs_edit_move_tile">Flytta %1$s</string>
+    <string name="accessibility_qs_edit_remove_tile">Ta bort %1$s</string>
+    <string name="accessibility_qs_edit_tile_add">Lägg till %1$s på position %2$d</string>
+    <string name="accessibility_qs_edit_tile_label">Position %1$d, %2$s. Tryck snabbt två gånger för att redigera positionen.</string>
+    <string name="accessibility_qs_edit_tile_move">Flytta %1$s till position %2$d</string>
+    <string name="accessibility_quick_settings_detail">Snabbinställningar, %s.</string>
+    <string name="accessibility_quick_settings_not_available">Inte tillgänglig på grund av %s</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">WLAN har inaktiverats.</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">WLAN har aktiverats.</string>
+    <string name="accessibility_wifi_off">WLAN är inaktiverat.</string>
+    <string name="accessibility_wifi_one_bar">WLAN: en stapel.</string>
+    <string name="accessibility_wifi_signal_full">Full signalstyrka för WLAN.</string>
+    <string name="accessibility_wifi_three_bars">WLAN: tre staplar.</string>
+    <string name="accessibility_wifi_two_bars">WLAN: två staplar.</string>
+    <string name="connected_via_app">Anslutet via %1$s</string>
+    <string name="mobile_data_always_on_summary">Håll alltid mobildata aktiverad, även när WLAN är aktiverat (så att du snabbt kan byta mellan nätverk).</string>
+    <string name="mobile_data_disable_message">Du kan inte skicka data eller använda internet via %s. Internetanslutning blir bara möjlig via WLAN.</string>
+    <string name="output_service_bt_wifi">Bluetooth och WLAN</string>
+    <string name="output_service_wifi">WLAN</string>
+    <string name="quick_settings_cast_no_wifi">Inte ansluten till WLAN</string>
+    <string name="quick_settings_wifi_connecting_label">WLAN: ansluter</string>
+    <string name="quick_settings_wifi_detail_empty_text">Det finns inga tillgängliga WLAN-nätverk</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">WLAN av</string>
+    <string name="quick_settings_wifi_on_label">WLAN är aktiverat</string>
+    <string name="quick_settings_wifi_scanning_label">WLAN: skannar</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="status_bar_wifi">WLAN</string>
+    <string name="status_bar_wifi_hotspot">WLAN-hotspot</string>
+    <string name="wifi_disabled_wifi_failure">WLAN-anslutningsfel</string>
+    <string name="wifi_display_certification">Certifiering för WLAN-skärmdelning</string>
+    <string name="wifi_display_certification_summary">Visa certifieringsalternativ för WLAN-skärmdelning</string>
+    <string name="wifi_is_off">WLAN är inaktiverat</string>
+    <string name="wifi_scan_throttling">Begränsning av WLAN-sökning</string>
+    <string name="wifi_security_short_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_short_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_verbose_logging">Aktivera utförlig loggning för WLAN</string>
+    <string name="wifi_verbose_logging_summary">Öka loggningsnivån för WLAN, visa per SSID RSSI i WLAN Picker</string>
+</resources>

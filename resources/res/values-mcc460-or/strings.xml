@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_data_connection_wifi">ୱାଇ-ଫାଇ</string>
+    <string name="accessibility_no_wifi">ୱାଇଫାଇ ବିଚ୍ଛିନ୍ନ କରାଗଲା।</string>
+    <string name="accessibility_qs_edit_add_tile_label">%1$s। ଯୋଡ଼ିବା ପାଇଁ ଡବଲ୍‍-ଟାପ୍‍ କରନ୍ତୁ।</string>
+    <string name="accessibility_qs_edit_move_tile">%1$s ନିଅନ୍ତୁ</string>
+    <string name="accessibility_qs_edit_remove_tile">%1$s ବାହାର କରିଦିଅନ୍ତୁ</string>
+    <string name="accessibility_qs_edit_tile_add">%2$d ଅବସ୍ଥାନକୁ %1$s ଯୋଡନ୍ତୁ</string>
+    <string name="accessibility_qs_edit_tile_label">ଅବସ୍ଥାନ %1$d, %2$s। ଏଡିଟ୍ କରିବାକୁ ଡବଲ୍‍-ଟାପ୍‍ କରନ୍ତୁ।</string>
+    <string name="accessibility_qs_edit_tile_move">%2$d ଅବସ୍ଥାନକୁ %1$s ଘୁଞ୍ଚାନ୍ତୁ</string>
+    <string name="accessibility_quick_settings_detail">ଦ୍ରୁତ ସେଟିଙ୍ଗ, %s।</string>
+    <string name="accessibility_quick_settings_not_available">%s ଯୋଗୁଁ ଉପଲବ୍ଧ ନାହିଁ</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">ୱାଇ-ଫାଇ ବନ୍ଦ ଅଛି।</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">ୱାଇ-ଫାଇ ଅନ୍ ଅଛି।</string>
+    <string name="accessibility_wifi_off">ୱାଇ-ଫାଇ ବନ୍ଦ।</string>
+    <string name="accessibility_wifi_one_bar">WLANର 1 ବାର</string>
+    <string name="accessibility_wifi_signal_full">ୱାଇ-ଫାଇର ସଙ୍କେତ ସର୍ବୋଚ୍ଚ।</string>
+    <string name="accessibility_wifi_three_bars">ୱାଇ-ଫାଇର ତିନୋଟି ବାର୍।</string>
+    <string name="accessibility_wifi_two_bars">ୱାଇ-ଫାଇର ଦୁଇଟି ବାର୍‌ ଅଛି।</string>
+    <string name="connected_via_app">%1$s ଦ୍ବାରା ସଂଯୋଗ କରାଯାଇଛି</string>
+    <string name="mobile_data_disable_message">%s ଦ୍ଵାରା ଆପଣଙ୍କର ଡାଟା କିମ୍ବା ଇଣ୍ଟରନେଟ୍‌କୁ ଆକ୍ସେସ୍ ନାହିଁ। ଇଣ୍ଟରନେଟ୍‌ କେବଳ ୱାଇ-ଫାଇ ମାଧ୍ୟମରେ ଉପଲବ୍ଧ ହେବ।</string>
+    <string name="output_service_bt_wifi">ବ୍ଲୁଟୂଥ୍‍‌ ଓ ୱାଇ-ଫାଇ</string>
+    <string name="output_service_wifi">ୱାଇ-ଫାଇ</string>
+    <string name="quick_settings_wifi_detail_empty_text">କୌଣସି ୱାଇ-ଫାଇ ନେଟ୍‌ୱର୍କ ଉପଲବ୍ଧ ନାହିଁ</string>
+    <string name="quick_settings_wifi_label">ୱାଇ-ଫାଇ</string>
+    <string name="quick_settings_wifi_off_label">ୱାଇ-ଫାଇ ଅଫ୍‍</string>
+    <string name="quick_settings_wifi_on_label">ୱାଇ-ଫାଇ ଅନ୍‍ ଅଛି</string>
+    <string name="status_bar_settings_wifi_button">ୱାଇ-ଫାଇ</string>
+    <string name="wifi_disabled_wifi_failure">ୱାଇଫାଇ ସଂଯୋଗ ବିଫଳ ହୋଇଛି</string>
+    <string name="wifi_is_off">ୱାଇ-ଫାଇ ଅଫ୍‍ ଅଛି</string>
+</resources>

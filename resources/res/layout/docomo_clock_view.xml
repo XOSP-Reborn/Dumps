@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sonymobile.keyguard.plugin.docomoclock.DocomoClockContainer xmlns:android="http://schemas.android.com/apk/res/android" android:layout_gravity="top|center_vertical|center_horizontal|center" android:orientation="vertical" android:id="@+id/somc_keyguard_clockplugin_scale_container" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <LinearLayout android:layout_gravity="top|center_vertical|center_horizontal|center" android:orientation="vertical" android:id="@+id/docomo_keyguard_digital_clock_container" android:layout_width="@dimen/docomo_widget_width" android:layout_height="wrap_content">
+        <RelativeLayout android:orientation="horizontal" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/somc_digital_clock_text_margin_bottom">
+            <TextClock android:id="@+id/docomo_clock_view" android:tag="main_clock" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/somc_digital_clock_text_margin_bottom" android:layout_centerHorizontal="true" android:format12Hour="@string/keyguard_widget_12_hours_format" android:format24Hour="@string/keyguard_widget_24_hours_format" style="@style/docomo_digital_clock_hours_minutes_text_style"/>
+            <TextClock android:id="@+id/docomo_digital_clock_am_pm" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignTop="@+id/docomo_clock_view" android:layout_toEndOf="@+id/docomo_clock_view" style="@style/docomo_digital_clock_amp_pm_text_style"/>
+        </RelativeLayout>
+        <include layout="@layout/docomo_keyguard_status_area"/>
+        <FrameLayout android:gravity="center" android:layout_width="match_parent" android:layout_height="@dimen/docomo_mascot_display_height">
+            <com.android.keyguard.MachiCharaWidget android:layout_gravity="center" android:id="@+id/chara" android:visibility="gone" android:layout_width="match_parent" android:layout_height="@dimen/docomo_mascot_display_height"/>
+            <ImageView android:layout_gravity="center" android:id="@+id/mic_button" android:visibility="gone" android:layout_width="@dimen/docomo_mic_width" android:layout_height="@dimen/docomo_mic_height" android:scaleType="fitXY" android:contentDescription="@string/docomo_clock_accessibility_icon_nexti"/>
+        </FrameLayout>
+    </LinearLayout>
+</com.sonymobile.keyguard.plugin.docomoclock.DocomoClockContainer>

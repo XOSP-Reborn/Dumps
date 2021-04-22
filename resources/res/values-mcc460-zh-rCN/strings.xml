@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_no_wifi">WLAN 连接已断开。</string>
+    <string name="accessibility_qs_edit_add_tile_label">%1$s。点按两次即可添加。</string>
+    <string name="accessibility_qs_edit_move_tile">移动%1$s</string>
+    <string name="accessibility_qs_edit_remove_tile">移除%1$s</string>
+    <string name="accessibility_qs_edit_tile_add">将“%1$s”添加到位置 %2$d</string>
+    <string name="accessibility_qs_edit_tile_label">位置 %1$d，%2$s。点按两次即可修改。</string>
+    <string name="accessibility_qs_edit_tile_move">将“%1$s”移动到位置 %2$d</string>
+    <string name="accessibility_quick_settings_detail">快捷设定，%s。</string>
+    <string name="accessibility_quick_settings_not_available">%s，因此目前无法使用</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">WLAN已关闭。</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">WLAN已开启。</string>
+    <string name="accessibility_wifi_off">WLAN 已关闭。</string>
+    <string name="accessibility_wifi_one_bar">WLAN 信号强度为一格。</string>
+    <string name="accessibility_wifi_signal_full">WLAN 信号满格。</string>
+    <string name="accessibility_wifi_three_bars">WLAN 信号强度为三格。</string>
+    <string name="accessibility_wifi_two_bars">WLAN 信号强度为两格。</string>
+    <string name="connected_via_app">已通过%1$s连接到网络</string>
+    <string name="mobile_data_always_on_summary">始终开启移动数据网络，即使 WLAN 网络已开启（便于快速切换网络）。</string>
+    <string name="mobile_data_disable_message">您将无法通过%s使用移动数据或互联网，只能通过 WLAN 连接到互联网。</string>
+    <string name="output_service_bt_wifi">蓝牙和 WLAN</string>
+    <string name="output_service_wifi">WLAN</string>
+    <string name="quick_settings_cast_no_wifi">未连接到 WLAN 网络</string>
+    <string name="quick_settings_wifi_connecting_label">WLAN：正在连接</string>
+    <string name="quick_settings_wifi_detail_empty_text">没有 WLAN 网络</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">WLAN：关闭</string>
+    <string name="quick_settings_wifi_on_label">WLAN 已开启</string>
+    <string name="quick_settings_wifi_scanning_label">WLAN：正在扫描</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="status_bar_wifi">WLAN</string>
+    <string name="status_bar_wifi_hotspot">移动热点</string>
+    <string name="wifi_disabled_wifi_failure">WLAN 连接失败</string>
+    <string name="wifi_is_off">WLAN 已关闭</string>
+    <string name="wifi_scan_throttling">WLAN 扫描调节</string>
+    <string name="wifi_security_short_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_short_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_verbose_logging">启用 WLAN 详细日志记录功能</string>
+    <string name="wifi_verbose_logging_summary">提升 WLAN 日志记录级别（在 WLAN 选择器中显示每个 SSID 的 RSSI）</string>
+</resources>

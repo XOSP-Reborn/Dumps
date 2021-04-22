@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:gravity="top" android:orientation="vertical" android:background="@drawable/rounded_bg_full" android:padding="@dimen/global_actions_padding" android:clipChildren="false" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="match_parent">
+    <LinearLayout android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+        <CheckBox android:textAppearance="?android:attr/textAppearanceMedium" android:id="@+id/checkbox_mic" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/screenrecord_mic_label"/>
+        <CheckBox android:textAppearance="?android:attr/textAppearanceMedium" android:id="@+id/checkbox_taps" android:layout_width="match_parent" android:layout_height="wrap_content" android:text="@string/screenrecord_taps_label"/>
+        <Button android:id="@+id/record_button" android:layout_width="match_parent" android:layout_height="50dp" android:text="@string/screenrecord_start_label"/>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_data_connection_wifi">I-WLAN</string>
+    <string name="accessibility_no_wifi">I-WLAN inqanyuliwe.</string>
+    <string name="accessibility_qs_edit_add_tile_label">%1$s. Thepha kabili ukuze ungeze.</string>
+    <string name="accessibility_qs_edit_move_tile">Hambisa i-%1$s</string>
+    <string name="accessibility_qs_edit_remove_tile">Susa i-%1$s</string>
+    <string name="accessibility_qs_edit_tile_add">Engeza i-%1$s ukuze ubeke i-%2$d</string>
+    <string name="accessibility_qs_edit_tile_label">Isimo esingu-%1$d, %2$s. Thepha kabili ukuze uhlele.</string>
+    <string name="accessibility_qs_edit_tile_move">Hambisa i-%1$s ukuze ubeke i-%2$d</string>
+    <string name="accessibility_quick_settings_detail">Izilungiselelo ezisheshayo, %s.</string>
+    <string name="accessibility_quick_settings_not_available">Ayitholakali ngenxa ye-%s</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">I-WLAN ivaliwe.</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">I-WLAN ivuliwe.</string>
+    <string name="accessibility_wifi_off">I-WLAN ivaliwe.</string>
+    <string name="accessibility_wifi_one_bar">Ibha elilodwa le-WLAN.</string>
+    <string name="accessibility_wifi_signal_full">Isiginali ye-WLAN igcwele.</string>
+    <string name="accessibility_wifi_three_bars">Amabha amathathu we-WLAN.</string>
+    <string name="accessibility_wifi_two_bars">Amabha amabili we-WLAN.</string>
+    <string name="connected_via_app">Ixhumeke nge-%1$s</string>
+    <string name="mobile_data_always_on_summary">Hlala ugcine idatha yeselula isebenza, nanoma i-WLAN isebenza (ngokushintshwa kwenethiwekhi okusheshayo).</string>
+    <string name="mobile_data_disable_message">Ngeke ube nokufinyelela kudatha noma ku-inthanethi nge-%s. I-inthanethi izotholakala kuphela nge-WLAN.</string>
+    <string name="output_service_bt_wifi">I-Bluetooth ne-WLAN</string>
+    <string name="output_service_wifi">I-WLAN</string>
+    <string name="quick_settings_cast_no_wifi">I-WLAN ayixhunyiwe</string>
+    <string name="quick_settings_wifi_detail_empty_text">Awekho amanethiwekhi we-WLAN atholakalayo</string>
+    <string name="quick_settings_wifi_label">I-WLAN</string>
+    <string name="quick_settings_wifi_off_label">I-WLAN icimile</string>
+    <string name="quick_settings_wifi_on_label">I-WLAN ivuliwe</string>
+    <string name="status_bar_settings_wifi_button">I-WLAN</string>
+    <string name="wifi_disabled_wifi_failure">Ukwehlulekla koxhumo le-WLAN</string>
+    <string name="wifi_is_off">I-WLAN ivaliwe</string>
+    <string name="wifi_scan_throttling">I-throttling yokuskena kwe-WLAN</string>
+    <string name="wifi_verbose_logging">Nika amandlaukungena kwe-WLAN Verbose</string>
+    <string name="wifi_verbose_logging_summary">khuphula izinga lokungena le-WLAN, bonisa nge-SSID RSSI engayodwana kusikhethi se-WLAN</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_no_wifi">WLAN  ချိတ်ဆက်ထားမှု မရှိပါ</string>
+    <string name="accessibility_qs_edit_add_tile_label">%1$s။ ပေါင်းထည့်ရန် နှစ်ချက်တို့ပါ။</string>
+    <string name="accessibility_qs_edit_move_tile">%1$s ကိုရွှေ့ပါ</string>
+    <string name="accessibility_qs_edit_remove_tile">%1$s ကိုဖယ်ရှားပါ</string>
+    <string name="accessibility_qs_edit_tile_add">%1$s ကို အနေအထား %2$d သို့ ပေါင်းထည့်ရန်</string>
+    <string name="accessibility_qs_edit_tile_label">%1$d၊ %2$s နေရာ။ တည်းဖြတ်ရန် နှစ်ချက်တို့ပါ။</string>
+    <string name="accessibility_qs_edit_tile_move">%1$s ကို အနေအထား %2$d သို့ ရွှေ့ရန်</string>
+    <string name="accessibility_quick_settings_detail">အမြန်ချိန်ညှိခြင်း၊ %s။</string>
+    <string name="accessibility_quick_settings_not_available">%s ကြောင့် မရနိုင်ပါ</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">ကြိုးမဲ့ ပိတ်ထား။</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">ကြိုးမဲ့ ဖွင့်ထား။</string>
+    <string name="accessibility_wifi_off">WLAN  ပိတ်ထားသည်</string>
+    <string name="accessibility_wifi_one_bar">WLAN  ၁ ဘားရှိ</string>
+    <string name="accessibility_wifi_signal_full">WLAN  အပြည့်ရှိ</string>
+    <string name="accessibility_wifi_three_bars">WLAN  ၃ ဘား</string>
+    <string name="accessibility_wifi_two_bars">WLAN  ၂ ဘား</string>
+    <string name="connected_via_app">%1$s မှတစ်ဆင့် ချိတ်ဆက်ထားသည်</string>
+    <string name="mobile_data_always_on_summary">WLAN ဖွင့်ထားချိန်တွင်လည်း မိုဘိုင်းဒေတာ အမြဲတမ်းဖွင့်မည် (မြန်ဆန်သည့် ကွန်ရက် ပြောင်းခြင်းအတွက်)။</string>
+    <string name="mobile_data_disable_message">%s မှတစ်ဆင့် ဒေတာ သို့မဟုတ် အင်တာနက်ကို သုံးစွဲ၍ မရနိုင်ပါ။ WLAN အသုံးပြု၍သာ အင်တာနက် သုံးစွဲနိုင်ပါသည်။</string>
+    <string name="output_service_bt_wifi">ဘလူးတုသ်နှင့် WLAN</string>
+    <string name="output_service_wifi">Wi−Fi</string>
+    <string name="quick_settings_cast_no_wifi">WLAN ချိတ်ဆက်ထားခြင်းမရှိပါ</string>
+    <string name="quick_settings_wifi_detail_empty_text">WLAN ကွန်ရက် မရှိပါ</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">ဝိုင်ဖိုင်ပိတ်ရန်</string>
+    <string name="quick_settings_wifi_on_label">WLAN ကိုဖွင့်ပါ</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="wifi_disabled_wifi_failure">WLAN ချိတ်ဆက်မှု မအောင်မြင်ပါ</string>
+    <string name="wifi_is_off">WLAN ကို ပိတ်ထားသည်</string>
+    <string name="wifi_scan_throttling">WLAN ရှာဖွေခြင်း ထိန်းချုပ်မှု</string>
+    <string name="wifi_verbose_logging">WLAN Verbose မှတ်တမ်းတင်ခြင်းအား ဖွင့်မည်</string>
+    <string name="wifi_verbose_logging_summary">WLAN မှတ်တမ်းတင်ခြင်း နှုန်းအားမြင့်ကာ၊ WLAN ရွေးရာတွင် SSID RSSI ဖြင့်ပြပါ</string>
+</resources>

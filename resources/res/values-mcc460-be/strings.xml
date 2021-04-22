@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_no_wifi">WLAN адлучаны.</string>
+    <string name="accessibility_qs_edit_add_tile_label">%1$s. Краніце двойчы, каб дадаць.</string>
+    <string name="accessibility_qs_edit_move_tile">Перамясціць %1$s</string>
+    <string name="accessibility_qs_edit_remove_tile">Выдаліць %1$s</string>
+    <string name="accessibility_qs_edit_tile_add">Дадаць \"%1$s\" у наступнае месца: %2$d</string>
+    <string name="accessibility_qs_edit_tile_label">Месца: %1$d, %2$s. Краніце двойчы, каб рэдагаваць.</string>
+    <string name="accessibility_qs_edit_tile_move">Перамясціць \"%1$s\" у наступнае месца: %2$d</string>
+    <string name="accessibility_quick_settings_detail">Хуткія налады, %s.</string>
+    <string name="accessibility_quick_settings_not_available">Прычына недаступнасці: %s</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">WLAN выключаны.</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">WLAN уключаны.</string>
+    <string name="accessibility_wifi_off">WLAN выключаны.</string>
+    <string name="accessibility_wifi_one_bar">Адзiн слупок WLAN.</string>
+    <string name="accessibility_wifi_signal_full">Поўны сігнал WLAN.</string>
+    <string name="accessibility_wifi_three_bars">Тры слупкi WLAN.</string>
+    <string name="accessibility_wifi_two_bars">Два слупкi WLAN.</string>
+    <string name="connected_via_app">Падключана праз праграму \"%1$s\"</string>
+    <string name="mobile_data_always_on_summary">Перадача даных мабільнай сувязі заўсёды актыўная, нават калі актыўная сетка WLAN (для хуткага пераключэння паміж сеткамі).</string>
+    <string name="mobile_data_disable_message">У вас не будзе доступу да даных ці інтэрнэту праз аператара %s. Інтэрнэт будзе даступны толькі праз WLAN.</string>
+    <string name="output_service_bt_wifi">Bluetooth і WLAN</string>
+    <string name="output_service_wifi">WLAN</string>
+    <string name="quick_settings_cast_no_wifi">WLAN не падключаны</string>
+    <string name="quick_settings_wifi_detail_empty_text">Няма даступнай сеткі WLAN</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">WLAN адключаны</string>
+    <string name="quick_settings_wifi_on_label">WLAN уключаны</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="wifi_disabled_wifi_failure">Збой падлучэння WLAN</string>
+    <string name="wifi_is_off">WLAN выключаны</string>
+    <string name="wifi_scan_throttling">Рэгуляванне пошуку сетак WLAN</string>
+    <string name="wifi_verbose_logging">Уключыць падрабязны журнал WLAN</string>
+    <string name="wifi_verbose_logging_summary">Пры выбары сеткі WLAN указваць у журнале RSSI для кожнага SSID</string>
+</resources>

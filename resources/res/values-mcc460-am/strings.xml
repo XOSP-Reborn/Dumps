@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_no_wifi">የWLAN ግንኙነት ተቋርጧል።</string>
+    <string name="accessibility_qs_edit_add_tile_label">%1$s። ለማከል ሁለቴ መታ ያድርጉ።</string>
+    <string name="accessibility_qs_edit_move_tile">%1$sን ይውሰዱ</string>
+    <string name="accessibility_qs_edit_remove_tile">%1$sን ያስወግዱ</string>
+    <string name="accessibility_qs_edit_tile_add">%1$sን ወደ አቀማመጥ %2$d አክል</string>
+    <string name="accessibility_qs_edit_tile_label">ቦታ %1$d፣ %2$s። ለማርትዕ ሁለቴ መታ ያድርጉ።</string>
+    <string name="accessibility_qs_edit_tile_move">%1$sን ወደ አቀማመጥ %2$d አንቀሳቅስ</string>
+    <string name="accessibility_quick_settings_detail">ፈጣን ቅንብሮች፣ %s።</string>
+    <string name="accessibility_quick_settings_not_available">በ%s ምክንያት አይገኝም</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">WLAN ጠፍቷል።</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">WLAN በርቷል።</string>
+    <string name="accessibility_wifi_off">WLAN ጠፍቷል።</string>
+    <string name="accessibility_wifi_one_bar">አንድ የWLAN አሞሌ።</string>
+    <string name="accessibility_wifi_signal_full">የWLAN ምልክት ሙሉ ነው።</string>
+    <string name="accessibility_wifi_three_bars">ሦስት የWLAN አሞሌዎች።</string>
+    <string name="accessibility_wifi_two_bars">ሁለት የWLAN አሞሌዎች።</string>
+    <string name="connected_via_app">በ %1$s በኩል ተገናኝተዋል</string>
+    <string name="mobile_data_always_on_summary">ምንም እንኳን WLAN ንቁ ቢሆንም የሞባይል ውሂብን ንቁ እንደሆነ አቆይ (ለፈጣን የአውታረ መረብ ቅይይር)።</string>
+    <string name="mobile_data_disable_message">በ%s በኩል የውሂብ ወይም የበይነመረቡ መዳረሻ አይኖረዎትም። በይነመረብ በWLAN በኩል ብቻ ነው የሚገኝ የሚሆነው።</string>
+    <string name="output_service_bt_wifi">ብሉቱዝ እና WLAN</string>
+    <string name="output_service_wifi">WLAN</string>
+    <string name="quick_settings_cast_no_wifi">WLAN አልተገናኘም</string>
+    <string name="quick_settings_wifi_detail_empty_text">ምንም የWLAN  አውታረ መረቦች የሉም</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">WLAN ጠፍቷል</string>
+    <string name="quick_settings_wifi_on_label">WLAN በርቷል</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="wifi_disabled_wifi_failure">የWLAN ግንኙነት መሰናከል</string>
+    <string name="wifi_is_off">WLAN ጠፍቷል</string>
+    <string name="wifi_scan_throttling">WLAN scan throttling</string>
+    <string name="wifi_verbose_logging">የWLAN ተጨማሪ ቃላት ምዝግብ ማስታወሻ መያዝ</string>
+    <string name="wifi_verbose_logging_summary">የWLAN ምዝግብ ማስታወሻ አያያዝ ደረጃ ጨምር፣ በWLAN መምረጫ ውስጥ በአንድ SSID RSSI አሳይ</string>
+</resources>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_no_wifi">WLAN-ühendus on katkestatud.</string>
+    <string name="accessibility_qs_edit_add_tile_label">%1$s. Topeltpuudutage lisamiseks.</string>
+    <string name="accessibility_qs_edit_move_tile">Paani %1$s teisaldamine</string>
+    <string name="accessibility_qs_edit_remove_tile">Paani %1$s eemaldamine</string>
+    <string name="accessibility_qs_edit_tile_add">Lisage %1$s asendisse %2$d</string>
+    <string name="accessibility_qs_edit_tile_label">Asend %1$d, paan %2$s. Topeltpuudutage muutmiseks.</string>
+    <string name="accessibility_qs_edit_tile_move">Teisaldage %1$s asendisse %2$d</string>
+    <string name="accessibility_quick_settings_detail">Kiirseaded, %s.</string>
+    <string name="accessibility_quick_settings_not_available">Põhjuse %s tõttu pole saadaval</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">WLAN on välja lülitatud.</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">WLAN on sisse lülitatud.</string>
+    <string name="accessibility_wifi_off">WLAN on välja lülitatud.</string>
+    <string name="accessibility_wifi_one_bar">WLAN: üks pulk.</string>
+    <string name="accessibility_wifi_signal_full">WLAN-signaal on tugev.</string>
+    <string name="accessibility_wifi_three_bars">WLAN: kolm pulka.</string>
+    <string name="accessibility_wifi_two_bars">WLAN: kaks pulka.</string>
+    <string name="connected_via_app">Ühendatud võrgu %1$s kaudu</string>
+    <string name="mobile_data_always_on_summary">Hoidke mobiilne andmeside alati aktiivsena, isegi kui WLAN on aktiivne (võrkude kiireks vahetamiseks).</string>
+    <string name="mobile_data_disable_message">Teil ei ole operaatori %s kaudu juurdepääsu andmesidele ega Internetile. Internet on saadaval ainult WLAN kaudu.</string>
+    <string name="output_service_bt_wifi">Bluetooth ja WLAN</string>
+    <string name="output_service_wifi">WLAN</string>
+    <string name="quick_settings_cast_no_wifi">WLAN-ühendus puudub</string>
+    <string name="quick_settings_wifi_connecting_label">WLAN: ühendamine</string>
+    <string name="quick_settings_wifi_detail_empty_text">WLAN-võrke pole saadaval</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">WLAN-ühendus on väljas</string>
+    <string name="quick_settings_wifi_on_label">WLAN on sees</string>
+    <string name="quick_settings_wifi_scanning_label">WLAN: skannimine</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="status_bar_wifi">WLAN</string>
+    <string name="status_bar_wifi_hotspot">WLAN-pääsupunktid</string>
+    <string name="wifi_disabled_wifi_failure">WLAN-ühenduse viga</string>
+    <string name="wifi_is_off">WLAN on välja lülitatud</string>
+    <string name="wifi_scan_throttling">WLAN-skannimise ahendamine</string>
+    <string name="wifi_security_short_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_short_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_verbose_logging">Luba WLAN sõnaline logimine</string>
+    <string name="wifi_verbose_logging_summary">Suurenda WLAN logimistaset, kuva WLAN valijas SSID RSSI järgi</string>
+</resources>

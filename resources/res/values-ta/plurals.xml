@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="one">%d நாளுக்கு முன்</item>
+        <item quantity="other">%d நாளுக்கு முன்</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="one">%d நிமி. முன்</item>
+        <item quantity="other">%d நிமி. முன்</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="one">%d ஆண்டிற்கு முன்</item>
+        <item quantity="other">%d ஆண்டிற்கு முன்</item>
+    </plurals>
+    <plurals name="kg_password_default_pin_message">
+        <item quantity="one">சிம் பின்னை உள்ளிடவும். மீதமுள்ள %d வாய்ப்பில் தவறுதலான பின் உள்ளிடப்பட்டால், உங்கள் தொலைத்தொடர்பு நிறுவனத்தைத் தொடர்பு கொண்டு மட்டுமே சாதனத்தைத் திறக்க முடியும்.</item>
+        <item quantity="other">சிம் பின்னை உள்ளிடவும். மேலும், %d வாய்ப்புகள் மீதமுள்ளன.</item>
+    </plurals>
+    <plurals name="kg_password_default_puk_message">
+        <item quantity="one">சிம் இப்போது முடக்கப்பட்டது. தொடர்வதற்கு PUK குறியீடை உள்ளிடவும். சிம்மை நிரந்தரமாக பயன்படுத்த முடியாமல் போவதற்கு முன்பு உங்களிடம் %d முயற்சிகள் மீதமுள்ளன. விவரங்களுக்கு கேரியரைத் தொடர்புகொள்ளவும்.</item>
+        <item quantity="other">சிம் இப்போது முடக்கப்பட்டது. தொடர்வதற்கு PUK குறியீடை உள்ளிடவும். சிம்மை நிரந்தரமாக பயன்படுத்த முடியாமல் போவதற்கு முன்பு உங்களிடம் %d முயற்சிகள் மீதமுள்ளன. விவரங்களுக்கு கேரியரைத் தொடர்புகொள்ளவும்.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="one">தவறான சிம் PIN குறியீடு, உங்கள் PUK குறியீடை (PIN பூட்டுநீக்கக் குறியீடு) உள்ளிடுவதற்கு முன்பு உங்களிடம் %d முயற்சி மீதமுள்ளது அல்லது உங்கள் சாதனத்தை பூட்டுநீக்க உங்கள் சேவை வழங்குநரைத் தொடர்புகொள்ளவும்.</item>
+        <item quantity="other">தவறான சிம் PIN குறியீடு, உங்கள் PUK குறியீடை (PIN பூட்டுநீக்கக் குறியீடு) உள்ளிடுவதற்கு முன்பு உங்களிடம் %d முயற்சிகள் மீதமுள்ளன அல்லது உங்கள் சாதனத்தை பூட்டுநீக்க உங்கள் சேவை வழங்குநரைத் தொடர்புகொள்ளவும்.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="one">தவறான சிம் PUK குறியீடு, உங்கள் சிம்மை நிரந்தரமாக பயன்படுத்த முடியாத நிலைக்கு முன்பு உங்களிடம் %d முயற்சி மீதமுள்ளன.</item>
+        <item quantity="other">தவறான சிம் PUK குறியீடு, உங்கள் சிம்மை நிரந்தரமாக பயன்படுத்த முடியாத நிலைக்கு முன்பு உங்களிடம் %d முயற்சிகள் மீதமுள்ளன.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_password">
+        <item quantity="one">%d மணிநேரமாகச் சாதனம் திறக்கப்படவில்லை. கடவுச்சொல்லை உறுதிப்படுத்தவும்.</item>
+        <item quantity="other">%d மணிநேரமாகச் சாதனம் திறக்கப்படவில்லை. கடவுச்சொல்லை உறுதிப்படுத்தவும்.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pattern">
+        <item quantity="one">%d மணிநேரமாகச் சாதனம் திறக்கப்படவில்லை. வடிவத்தை உறுதிப்படுத்தவும்.</item>
+        <item quantity="other">%d மணிநேரமாகச் சாதனம் திறக்கப்படவில்லை. வடிவத்தை உறுதிப்படுத்தவும்.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pin">
+        <item quantity="one">%d மணிநேரமாகச் சாதனம் திறக்கப்படவில்லை. பின்னை உறுதிப்படுத்தவும்.</item>
+        <item quantity="other">%d மணிநேரமாகச் சாதனம் திறக்கப்படவில்லை. பின்னை உறுதிப்படுத்தவும்.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="one">1 வினாடிக்குப் பிறகு முயலவும்.</item>
+        <item quantity="other">%d வினாடிகளுக்குப் பிறகு முயலவும்.</item>
+    </plurals>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="one">உள்ளே மேலும் %s அறிவிப்பு உள்ளது.</item>
+        <item quantity="other">உள்ளே மேலும் %s அறிவிப்புகள் உள்ளன.</item>
+    </plurals>
+    <plurals name="quick_settings_hotspot_secondary_label_num_devices">
+        <item quantity="one">%d சாதனம்</item>
+        <item quantity="other">%d சாதனங்கள்</item>
+    </plurals>
+    <plurals name="snoozeHourOptions">
+        <item quantity="one">%d மணிநேரம்</item>
+        <item quantity="two">%d மணிநேரம்</item>
+        <item quantity="few">%d மணிநேரம்</item>
+        <item quantity="other">%d மணிநேரம்</item>
+    </plurals>
+    <plurals name="snoozeMinuteOptions">
+        <item quantity="one">%d நிமிடம்</item>
+        <item quantity="few">%d நிமிடங்கள்</item>
+        <item quantity="other">%d நிமிடங்கள்</item>
+    </plurals>
+    <plurals name="user_limit_reached_message">
+        <item quantity="one">ஒரே ஒரு பயனரை மட்டுமே உருவாக்கலாம்.</item>
+        <item quantity="other">%d பயனர்கள் வரை சேர்க்கலாம்.</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="one">%1$d சாதனம் இணைக்கப்பட்டது</item>
+        <item quantity="other">%1$d சாதனங்கள் இணைக்கப்பட்டன</item>
+    </plurals>
+</resources>

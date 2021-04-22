@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.systemui.statusbar.StatusBarMobileView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:systemui="http://schemas.android.com/apk/res-auto" android:layout_gravity="center_vertical" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="match_parent">
+    <com.android.keyguard.AlphaOptimizedLinearLayout android:layout_width="wrap_content" android:layout_height="match_parent">
+        <ImageView android:layout_gravity="center_vertical" android:id="@+id/wifi_calling" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/stat_sys_vowifi" android:paddingStart="4dp" android:layout_marginEnd="@dimen/status_bar_wifi_calling_margin_end"/>
+        <include layout="@layout/status_bar_mobile_signal_group"/>
+    </com.android.keyguard.AlphaOptimizedLinearLayout>
+</com.android.systemui.statusbar.StatusBarMobileView>

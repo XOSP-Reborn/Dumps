@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_no_wifi">‏تم قطع اتصال WLAN.</string>
+    <string name="accessibility_qs_edit_add_tile_label">%1$s. انقر مرّتين للإضافة.</string>
+    <string name="accessibility_qs_edit_move_tile">نقل %1$s</string>
+    <string name="accessibility_qs_edit_remove_tile">إزالة %1$s</string>
+    <string name="accessibility_qs_edit_tile_add">إضافة %1$s إلى الموضع %2$d</string>
+    <string name="accessibility_qs_edit_tile_label">الموضع %1$d، %2$s. انقر مرّتين للتعديل.</string>
+    <string name="accessibility_qs_edit_tile_move">نقل %1$s إلى الموضع %2$d</string>
+    <string name="accessibility_quick_settings_detail">الإعدادات السريعة، %s.</string>
+    <string name="accessibility_quick_settings_not_available">غير متاحة بسبب %s</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">‏تم إيقاف WLAN.</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">‏تم تشغيل WLAN.</string>
+    <string name="accessibility_wifi_off">‏تم إيقاف WLAN.</string>
+    <string name="accessibility_wifi_one_bar">‏إشارة WLAN تتكون من شريط واحد.</string>
+    <string name="accessibility_wifi_signal_full">‏إشارة WLAN كاملة.</string>
+    <string name="accessibility_wifi_three_bars">‏إشارة WLAN تتكون من ثلاثة أشرطة.</string>
+    <string name="accessibility_wifi_two_bars">‏إشارة WLAN تتكون من شريطين.</string>
+    <string name="connected_via_app">تم الاتصال عبر %1$s.</string>
+    <string name="mobile_data_always_on_summary">‏اجعل بيانات الجوّال نشطة دائمًا، حتى عندما يكون اتصال WLAN نشطًا (لتبديل الشبكة بسرعة).</string>
+    <string name="mobile_data_disable_message">‏لن تتمكّن من الدخول إلى البيانات أو الإنترنت من خلال %s. ولن يتوفر اتصال الإنترنت إلا عبر WLAN.</string>
+    <string name="output_service_bt_wifi">‏البلوتوث وWLAN</string>
+    <string name="output_service_wifi">WLAN</string>
+    <string name="quick_settings_cast_no_wifi">‏لم يتم الاتصال بشبكة WLAN.</string>
+    <string name="quick_settings_wifi_connecting_label">‏WLAN: الاتصال</string>
+    <string name="quick_settings_wifi_detail_empty_text">‏لا تتوفر أي شبكة WLAN</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">‏إيقاف WLAN</string>
+    <string name="quick_settings_wifi_on_label">‏تم تشغيل WLAN</string>
+    <string name="quick_settings_wifi_scanning_label">‏WLAN: المسح</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="status_bar_wifi">‏WLAN</string>
+    <string name="status_bar_wifi_hotspot">نقطة اتصال WLAN</string>
+    <string name="wifi_disabled_wifi_failure">‏أخفق اتصال WLAN</string>
+    <string name="wifi_is_off">‏تم إيقاف شبكة WLAN</string>
+    <string name="wifi_scan_throttling">‏تقييد البحث عن شبكات WLAN</string>
+    <string name="wifi_security_short_wapi_cert">‏WLAN CERT</string>
+    <string name="wifi_security_short_wapi_psk">‏WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">‏WLAN CERT</string>
+    <string name="wifi_security_wapi_psk">‏WLAN PSK</string>
+    <string name="wifi_verbose_logging">‏تفعيل تسجيل WLAN Verbose</string>
+    <string name="wifi_verbose_logging_summary">‏زيادة مستوى تسجيل WLAN، وعرض لكل SSID RSSI في منتقي WLAN</string>
+</resources>

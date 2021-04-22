@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_no_wifi">WLAN जडान विच्छेद भयो।</string>
+    <string name="accessibility_qs_edit_add_tile_label">%1$s। थप्नका लागि डबल ट्याप गर्नुहोस्।</string>
+    <string name="accessibility_qs_edit_move_tile">%1$s लाई सार्नुहोस्</string>
+    <string name="accessibility_qs_edit_remove_tile">%1$s लाई हटाउनुहोस्</string>
+    <string name="accessibility_qs_edit_tile_add">%1$s लाई %2$d स्थितिमा थप्नुहोस्</string>
+    <string name="accessibility_qs_edit_tile_label">स्थिति %1$d, %2$s। सम्पादन गर्नाका लागि डबल ट्याप गर्नुहोस्।</string>
+    <string name="accessibility_qs_edit_tile_move">%1$s लाई %2$d स्थितिमा सार्नुहोस्</string>
+    <string name="accessibility_quick_settings_detail">द्रुत सेटिङ, %s।</string>
+    <string name="accessibility_quick_settings_not_available">%s का कारण उपलब्ध छैन</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">WLAN बन्द गरियो।</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">WLAN खुला गरियो।</string>
+    <string name="accessibility_wifi_off">WLAN बन्द।</string>
+    <string name="accessibility_wifi_one_bar">WLAN एक पट्टि।</string>
+    <string name="accessibility_wifi_signal_full">पूर्ण WLAN सिंग्नल।</string>
+    <string name="accessibility_wifi_three_bars">WLAN तीन बारहरू।</string>
+    <string name="accessibility_wifi_two_bars">WLAN दुई पट्टि।</string>
+    <string name="connected_via_app">%1$s मार्फत जडान गरिएको</string>
+    <string name="mobile_data_always_on_summary">WLAN सक्रिय हुँदा पनि मोबाइल डेटा सधैँ सक्रिय राख्नुहोस् (द्रूत नेटवर्क स्विच गर्नको लागि)।</string>
+    <string name="mobile_data_disable_message">तपाईंको %s मार्फत डेटा वा इन्टरनेटमाथि पहुँच हुने छैन। WLAN मार्फत मात्र इन्टरनेट उपलब्ध हुने छ।</string>
+    <string name="output_service_bt_wifi">ब्लुटुथ र WLAN</string>
+    <string name="output_service_wifi">WLAN</string>
+    <string name="quick_settings_cast_no_wifi">WLAN जडान गरिएको छैन</string>
+    <string name="quick_settings_wifi_detail_empty_text">WLAN नेटवर्क अनुपलब्ध</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">WLAN बन्द</string>
+    <string name="quick_settings_wifi_on_label">WLAN सक्रिय छ</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="wifi_disabled_wifi_failure">वाईफाई जडान असफल</string>
+    <string name="wifi_is_off">WLAN निष्क्रिय छ</string>
+    <string name="wifi_scan_throttling">WLAN स्क्यान थ्रोटलिङ</string>
+    <string name="wifi_verbose_logging">WLAN वर्बोज लग सक्षम पार्नुहोस्</string>
+    <string name="wifi_verbose_logging_summary">WLAN लग स्तर बढाउनुहोस्, WLAN चयनकर्तामा प्रति SSID RSSI देखाइन्छ</string>
+</resources>

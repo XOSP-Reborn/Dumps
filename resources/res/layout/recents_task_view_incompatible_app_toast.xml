@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ViewStub xmlns:android="http://schemas.android.com/apk/res/android" android:layout_gravity="top|center_vertical|center_horizontal|center" android:id="@+id/incompatible_app_toast_stub" android:layout="0x1090122" android:inflatedId="@+id/incompatible_app_toast" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="16dp" android:layout_marginTop="48dp" android:layout_marginRight="16dp"/>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_no_wifi">Síť WLAN je odpojena.</string>
+    <string name="accessibility_qs_edit_add_tile_label">%1$s. Dlaždici přidáte dvojitým klepnutím.</string>
+    <string name="accessibility_qs_edit_move_tile">Přesunout dlaždici %1$s</string>
+    <string name="accessibility_qs_edit_remove_tile">Odstranit dlaždici %1$s</string>
+    <string name="accessibility_qs_edit_tile_add">Přidat dlaždici %1$s na pozici %2$d</string>
+    <string name="accessibility_qs_edit_tile_label">Pozice %1$d, %2$s. Dvojitým klepnutím ji upravíte.</string>
+    <string name="accessibility_qs_edit_tile_move">Přesunout dlaždici %1$s na pozici %2$d</string>
+    <string name="accessibility_quick_settings_detail">Rychlé nastavení %s.</string>
+    <string name="accessibility_quick_settings_not_available">Nedostupné, protože %s</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">Připojení WLAN je vypnuto.</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">Připojení WLAN je zapnuto.</string>
+    <string name="accessibility_wifi_off">Síť WLAN je vypnuta.</string>
+    <string name="accessibility_wifi_one_bar">WLAN – jedna čárka.</string>
+    <string name="accessibility_wifi_signal_full">WLAN – plný signál.</string>
+    <string name="accessibility_wifi_three_bars">WLAN – tři čárky.</string>
+    <string name="accessibility_wifi_two_bars">WLAN – dvě čárky.</string>
+    <string name="connected_via_app">Připojeno přes %1$s</string>
+    <string name="mobile_data_always_on_summary">Mobilní data budou vždy ponechána aktivní, i když bude aktivní WLAN (za účelem rychlého přepínání sítí).</string>
+    <string name="mobile_data_disable_message">Prostřednictvím %s nebudete moci používat data ani internet. Internet bude dostupný pouze přes WLAN.</string>
+    <string name="output_service_bt_wifi">Bluetooth a WLAN</string>
+    <string name="output_service_wifi">WLAN</string>
+    <string name="quick_settings_cast_no_wifi">Není připojena WLAN</string>
+    <string name="quick_settings_wifi_connecting_label">WLAN: připojování</string>
+    <string name="quick_settings_wifi_detail_empty_text">Žádné sítě WLAN nejsou k dispozici</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">WLAN vypnuta</string>
+    <string name="quick_settings_wifi_on_label">WLAN je zapnutá</string>
+    <string name="quick_settings_wifi_scanning_label">WLAN: vyhledávání</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="status_bar_wifi">WLAN</string>
+    <string name="status_bar_wifi_hotspot">Přístupový bod WLAN</string>
+    <string name="wifi_disabled_wifi_failure">Selhání připojení WLAN</string>
+    <string name="wifi_is_off">WLAN je vypnuta</string>
+    <string name="wifi_scan_throttling">Přibrždění vyhledávání WLAN</string>
+    <string name="wifi_security_short_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_short_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_verbose_logging">Podrobné protokolování WLAN</string>
+    <string name="wifi_verbose_logging_summary">Zvýšit úroveň protokolování WLAN zobrazenou v SSID a RSSI při výběru sítě WLAN.</string>
+</resources>

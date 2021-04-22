@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_no_wifi">WLAN отключен</string>
+    <string name="accessibility_qs_edit_add_tile_label">Кнопка \"%1$s\". Чтобы добавить, нажмите дважды.</string>
+    <string name="accessibility_qs_edit_move_tile">Переместить кнопку \"%1$s\"</string>
+    <string name="accessibility_qs_edit_remove_tile">Удалить кнопку \"%1$s\"</string>
+    <string name="accessibility_qs_edit_tile_add">Добавить значок %1$s на позицию %2$d</string>
+    <string name="accessibility_qs_edit_tile_label">Позиция %1$d, кнопка \"%2$s\". Чтобы изменить, нажмите дважды.</string>
+    <string name="accessibility_qs_edit_tile_move">Переместить значок %1$s на позицию %2$d</string>
+    <string name="accessibility_quick_settings_detail">Быстрые настройки, %s.</string>
+    <string name="accessibility_quick_settings_not_available">Недоступно. %s</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">Модуль WLAN отключен.</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">Модуль WLAN включен.</string>
+    <string name="accessibility_wifi_off">WLAN выключен</string>
+    <string name="accessibility_wifi_one_bar">WLAN: одно деление</string>
+    <string name="accessibility_wifi_signal_full">WLAN: надежный сигнал</string>
+    <string name="accessibility_wifi_three_bars">WLAN: три деления</string>
+    <string name="accessibility_wifi_two_bars">WLAN: два деления</string>
+    <string name="connected_via_app">Подключено через приложение \"%1$s\".</string>
+    <string name="mobile_data_always_on_summary">Не отключать передачу данных по мобильной сети даже при активном WLAN-подключении (для быстрого переключения между сетями)</string>
+    <string name="mobile_data_disable_message">У вас не будет доступа к данным и Интернету через оператора \"%s\". Вы сможете установить интернет-соединение только по сети WLAN.</string>
+    <string name="output_service_bt_wifi">Bluetooth и WLAN</string>
+    <string name="output_service_wifi">WLAN</string>
+    <string name="quick_settings_cast_no_wifi">Нет подключения к сети WLAN.</string>
+    <string name="quick_settings_wifi_connecting_label">WLAN: подключение</string>
+    <string name="quick_settings_wifi_detail_empty_text">Не удалось найти доступные сети WLAN</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">WLAN выкл.</string>
+    <string name="quick_settings_wifi_on_label">WLAN включен</string>
+    <string name="quick_settings_wifi_scanning_label">WLAN: сканирование</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="status_bar_wifi">WLAN</string>
+    <string name="status_bar_wifi_hotspot">Точка доступа WLAN</string>
+    <string name="tether_settings_title_wifi">Точка доступа WLAN</string>
+    <string name="wifi_disabled_wifi_failure">Ошибка подключения WLAN</string>
+    <string name="wifi_is_off">Модуль WLAN отключен</string>
+    <string name="wifi_scan_throttling">Ограничивать поиск сетей WLAN</string>
+    <string name="wifi_security_short_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_short_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_verbose_logging">Подробный журнал WLAN</string>
+</resources>

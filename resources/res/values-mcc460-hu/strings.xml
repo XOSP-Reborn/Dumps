@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_no_wifi">Nincs WLAN-kapcsolat.</string>
+    <string name="accessibility_qs_edit_add_tile_label">%1$s. Koppintson duplán a hozzáadáshoz.</string>
+    <string name="accessibility_qs_edit_move_tile">A(z) %1$s áthelyezése</string>
+    <string name="accessibility_qs_edit_remove_tile">A(z) %1$s eltávolítása</string>
+    <string name="accessibility_qs_edit_tile_add">%1$s hozzáadása a következő pozícióhoz: %2$d</string>
+    <string name="accessibility_qs_edit_tile_label">%1$d. pozíció: %2$s. Koppintson duplán a szerkesztéshez.</string>
+    <string name="accessibility_qs_edit_tile_move">%1$s áthelyezése a következő pozícióba: %2$d</string>
+    <string name="accessibility_quick_settings_detail">Gyorsbeállítások – %s.</string>
+    <string name="accessibility_quick_settings_not_available">Nem áll rendelkezésre a következő ok miatt: %s</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">WLAN kikapcsolva.</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">WLAN bekapcsolva.</string>
+    <string name="accessibility_wifi_off">WLAN kikapcsolva.</string>
+    <string name="accessibility_wifi_one_bar">WLAN-jel: egy sáv.</string>
+    <string name="accessibility_wifi_signal_full">WLAN-jel: teljes.</string>
+    <string name="accessibility_wifi_three_bars">WLAN-jel: három sáv.</string>
+    <string name="accessibility_wifi_two_bars">WLAN-jel: két sáv.</string>
+    <string name="connected_via_app">Kapcsolódva a következőn keresztül: %1$s</string>
+    <string name="mobile_data_always_on_summary">A mobiladat-kapcsolat mindig maradjon aktív, még akkor is, ha a WLAN aktív (a gyors hálózatváltás érdekében).</string>
+    <string name="mobile_data_disable_message">Nem lesz adat-, illetve internet-hozzáférése %s szolgáltatón keresztül. Az internethez csak WLAN-n keresztül csatlakozhat.</string>
+    <string name="output_service_bt_wifi">Bluetooth és WLAN</string>
+    <string name="output_service_wifi">WLAN</string>
+    <string name="quick_settings_cast_no_wifi">Nem kapcsolódik WLAN-hálózathoz</string>
+    <string name="quick_settings_wifi_connecting_label">WLAN: Kapcsolódás</string>
+    <string name="quick_settings_wifi_detail_empty_text">Nincs elérhető WLAN-hálózat</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">WLAN kikapcsolva</string>
+    <string name="quick_settings_wifi_on_label">WLAN bekapcsolva</string>
+    <string name="quick_settings_wifi_scanning_label">WLAN: Keresés</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="status_bar_wifi">WLAN</string>
+    <string name="status_bar_wifi_hotspot">Csatlakozási pont WLAN</string>
+    <string name="wifi_disabled_wifi_failure">WLAN-kapcsolati hiba</string>
+    <string name="wifi_is_off">A WLAN ki van kapcsolva</string>
+    <string name="wifi_scan_throttling">WLAN-hálózat szabályozása</string>
+    <string name="wifi_security_short_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_short_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_verbose_logging">Részletes WLAN-naplózás engedélyezése</string>
+    <string name="wifi_verbose_logging_summary">WLAN-naplózási szint növelése, RSSI/SSID megjelenítése a WLAN-választóban</string>
+</resources>

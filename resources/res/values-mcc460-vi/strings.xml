@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_no_wifi">Đã ngắt kết nối WLAN.</string>
+    <string name="accessibility_qs_edit_add_tile_label">%1$s. Nhấn đúp để thêm.</string>
+    <string name="accessibility_qs_edit_move_tile">Di chuyển %1$s</string>
+    <string name="accessibility_qs_edit_remove_tile">Xóa %1$s</string>
+    <string name="accessibility_qs_edit_tile_add">Thêm %1$s vào vị trí %2$d</string>
+    <string name="accessibility_qs_edit_tile_label">Vị trí %1$d, %2$s. Nhấn đúp để chỉnh sửa.</string>
+    <string name="accessibility_qs_edit_tile_move">Di chuyển %1$s đến vị trí %2$d</string>
+    <string name="accessibility_quick_settings_detail">Cài đặt nhanh, %s.</string>
+    <string name="accessibility_quick_settings_not_available">Không sử dụng được do %s</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">Đã tắt WLAN.</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">Đã bật WLAN.</string>
+    <string name="accessibility_wifi_off">Đã tắt WLAN.</string>
+    <string name="accessibility_wifi_one_bar">Tín hiệu WLAN một vạch.</string>
+    <string name="accessibility_wifi_signal_full">Tín hiệu WLAN đủ.</string>
+    <string name="accessibility_wifi_three_bars">Tín hiệu WLAN ba vạch.</string>
+    <string name="accessibility_wifi_two_bars">Tín hiệu WLAN hai vạch.</string>
+    <string name="connected_via_app">Đã kết nối qua %1$s</string>
+    <string name="mobile_data_always_on_summary">Luôn bật dữ liệu di động ngay cả khi WLAN đang hoạt động (để chuyển đổi mạng nhanh).</string>
+    <string name="mobile_data_disable_message">Bạn sẽ không có quyền sử dụng dữ liệu hoặc truy cập Internet thông qua %s. Bạn chỉ có thể truy cập Internet thông qua WLAN.</string>
+    <string name="output_service_bt_wifi">Bluetooth và WLAN</string>
+    <string name="output_service_wifi">WLAN</string>
+    <string name="quick_settings_cast_no_wifi">Chưa kết nối với WLAN</string>
+    <string name="quick_settings_wifi_connecting_label">WLAN: Đang kết nối</string>
+    <string name="quick_settings_wifi_detail_empty_text">Không có mạng WLAN</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">Tắt WLAN</string>
+    <string name="quick_settings_wifi_on_label">WLAN đang bật</string>
+    <string name="quick_settings_wifi_scanning_label">WLAN: Đang quét</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="status_bar_wifi">WLAN</string>
+    <string name="status_bar_wifi_hotspot">Điểm phát sóng WLAN</string>
+    <string name="wifi_disabled_wifi_failure">Lỗi kết nối WLAN</string>
+    <string name="wifi_is_off">WLAN tắt</string>
+    <string name="wifi_scan_throttling">Hạn chế quét tìm WLAN</string>
+    <string name="wifi_security_short_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_short_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_verbose_logging">Bật ghi nhật ký chi tiết WLAN</string>
+    <string name="wifi_verbose_logging_summary">Tăng mức ghi nhật ký WLAN, hiển thị mỗi SSID RSSI trong bộ chọn WLAN</string>
+</resources>

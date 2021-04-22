@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_no_wifi">Няма връзка с WLAN.</string>
+    <string name="accessibility_qs_edit_add_tile_label">„%1$s“. Докоснете двукратно, за да добавите.</string>
+    <string name="accessibility_qs_edit_move_tile">Преместване на „%1$s“</string>
+    <string name="accessibility_qs_edit_remove_tile">Премахване на „%1$s“</string>
+    <string name="accessibility_qs_edit_tile_add">Добавете „%1$s“ на позиция %2$d</string>
+    <string name="accessibility_qs_edit_tile_label">Позиция %1$d, „%2$s“. Докоснете двукратно, за да редактирате.</string>
+    <string name="accessibility_qs_edit_tile_move">Преместете „%1$s“ на позиция %2$d</string>
+    <string name="accessibility_quick_settings_detail">Бързи настройки (%s).</string>
+    <string name="accessibility_quick_settings_not_available">Няма достъп, защото %s</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">Функцията за WLAN се изключи.</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">Функцията за WLAN се включи.</string>
+    <string name="accessibility_wifi_off">WLAN е изключен.</string>
+    <string name="accessibility_wifi_one_bar">WLAN е с една чертичка.</string>
+    <string name="accessibility_wifi_signal_full">Сигналът за WLAN е пълен.</string>
+    <string name="accessibility_wifi_three_bars">WLAN е с три чертички.</string>
+    <string name="accessibility_wifi_two_bars">WLAN е с две чертички.</string>
+    <string name="connected_via_app">Установена е връзка през %1$s</string>
+    <string name="mobile_data_always_on_summary">Мобилните данни са активни винаги – дори когато функцията за WLAN е включена (за бързо превключване между мрежите).</string>
+    <string name="mobile_data_disable_message">Няма да можете да използвате данни или интернет чрез %s. Ще имате достъп до интернет само през WLAN.</string>
+    <string name="output_service_bt_wifi">Bluetooth и WLAN</string>
+    <string name="output_service_wifi">WLAN</string>
+    <string name="quick_settings_cast_no_wifi">не е установена връзка с WLAN</string>
+    <string name="quick_settings_wifi_connecting_label">WLAN: свързване</string>
+    <string name="quick_settings_wifi_detail_empty_text">Няма налични WLAN мрежи</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">WLAN е изключен</string>
+    <string name="quick_settings_wifi_on_label">Функцията за WLAN е включена</string>
+    <string name="quick_settings_wifi_scanning_label">WLAN: сканиране</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="status_bar_wifi">WLAN</string>
+    <string name="status_bar_wifi_hotspot">WLAN точка за достъп</string>
+    <string name="wifi_disabled_wifi_failure">Неуспешна връзка с WLAN</string>
+    <string name="wifi_is_off">Функцията за WLAN е изключена</string>
+    <string name="wifi_scan_throttling">Ограничаване на сканирането за WLAN</string>
+    <string name="wifi_security_short_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_short_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_verbose_logging">„Многословно“ регистр. на WLAN: Актив.</string>
+    <string name="wifi_verbose_logging_summary">По-подробно регистр. на WLAN – данни за RSSI на SSID в инстр. за избор на WLAN</string>
+</resources>

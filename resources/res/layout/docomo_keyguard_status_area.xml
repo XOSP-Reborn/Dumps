@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:androidprv="http://schemas.android.com/apk/res-auto" android:gravity="center" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <TextClock android:textColor="?attr/wallpaperTextColor" android:gravity="center" android:id="@+id/docomo_date_view" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/somc_digital_clock_date_text_style"/>
+    <TextView android:gravity="center" android:id="@+id/docomo_alarm_status" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:drawablePadding="6dp" android:drawableStart="@drawable/somc_digital_clock_alarm_icon" style="@style/somc_digital_clock_alarm_text_style"/>
+</LinearLayout>

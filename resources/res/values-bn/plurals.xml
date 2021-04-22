@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="one">%d দিন আগে</item>
+        <item quantity="other">%d দিন আগে</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="one">%d মিনিট আগে</item>
+        <item quantity="other">%d মিনিট আগে</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="one">%d বছর আগে</item>
+        <item quantity="other">%d বছর আগে</item>
+    </plurals>
+    <plurals name="kg_password_default_pin_message">
+        <item quantity="one">সিমের পিন লিখুন। আপনি আর %d বার চেষ্টা করতে পারবেন।</item>
+        <item quantity="other">সিমের পিন লিখুন। আপনি আর %d বার চেষ্টা করতে পারবেন।</item>
+    </plurals>
+    <plurals name="kg_password_default_puk_message">
+        <item quantity="one">SIM এখন অক্ষম হয়েছে। অব্যাহত রাখতে PUK কোড প্রবিষ্ট করুন। অপনার %d প্রচেষ্টা অবশিষ্ট আছে যার পরে SIM চিরস্থায়ীভাবে ব্যবহারের অযোগ্য হবে। বিশদ বিবরণের জন্য বাহকের সঙ্গে যোগাযোগ করুন।</item>
+        <item quantity="other">SIM এখন অক্ষম হয়েছে। অব্যাহত রাখতে PUK কোড প্রবিষ্ট করুন। অপনার %dপ্রচেষ্টা অবশিষ্ট আছে যার পরে SIM চিরস্থায়ীভাবে ব্যবহারের অযোগ্য হবে। বিশদ বিবরণের জন্য বাহকের সঙ্গে যোগাযোগ করুন।</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="one">SIM PIN কোডটি ভুল, আপনি অবশ্যই PUK কোডটি (PIN আনলক করার কোড) প্রবিষ্ট করার আগে %d বার প্রচেষ্টা চালান বা আপনার যন্ত্রটিকে আনলক করতে আপনার পরিষেবা প্রদানকারীর সঙ্গে সম্পর্ক করুন।</item>
+        <item quantity="other">SIM PIN কোডটি ভুল, আপনি অবশ্যই PUK কোডটি (PIN আনলক করার কোড) প্রবিষ্ট করার আগে %d বার চেষ্টা করতে পারবেন বা আপনার যন্ত্রটিকে আনলক করতে আপনার পরিষেবা প্রদানকারীর সঙ্গে সম্পর্ক করুন।</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="one">SIM PUK কোডটি ভুল, আপনি আর %d বার চেষ্টা করতে পারবেন যার পরে SIM স্থায়ীভাবে অব্যবহারযোগ্য হয়ে যাবে।</item>
+        <item quantity="other">SIM PUK কোডটি ভুল, আপনি আর %d বার চেষ্টা করতে পারবেন, যার পরে SIM স্থায়ী ভাবে অব্যবহারযোগ্য হয়ে যাবে।</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_password">
+        <item quantity="one">ডিভাইসটি %d ঘণ্টা ধরে আনলক করা হয় নি। পাসওয়ার্ড নিশ্চিত করুন।</item>
+        <item quantity="other">ডিভাইসটি %d ঘণ্টা ধরে আনলক করা হয় নি। পাসওয়ার্ড নিশ্চিত করুন।</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pattern">
+        <item quantity="one">ডিভাইসটি %d ঘণ্টা ধরে আনলক করা হয় নি। প্যাটার্নটি নিশ্চিত করুন।</item>
+        <item quantity="other">ডিভাইসটি %d ঘণ্টা ধরে আনলক করা হয় নি। প্যাটার্নটি নিশ্চিত করুন।</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pin">
+        <item quantity="one">ডিভাইসটি %d ঘণ্টা ধরে আনলক করা হয়নি। পিন নিশ্চিত করুন৷</item>
+        <item quantity="other">ডিভাইসটি %d ঘণ্টা ধরে আনলক করা হয়নি। পিন নিশ্চিত করুন৷</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="one">%d সেকেন্ডের মধ্যে আবার চেষ্টা করুন।</item>
+        <item quantity="other">%d সেকেন্ডের মধ্যে আবার চেষ্টা করুন।</item>
+    </plurals>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="one">ভিতরে আরও %sটি বিজ্ঞপ্তি আছে।</item>
+        <item quantity="other">ভিতরে আরও %sটি বিজ্ঞপ্তি আছে।</item>
+    </plurals>
+    <plurals name="quick_settings_hotspot_secondary_label_num_devices">
+        <item quantity="one">%dটি ডিভাইস</item>
+        <item quantity="other">%dটি ডিভাইস</item>
+    </plurals>
+    <plurals name="snoozeHourOptions">
+        <item quantity="one">%d ঘণ্টা</item>
+        <item quantity="two">%d ঘণ্টা</item>
+        <item quantity="few">%d ঘণ্টা</item>
+        <item quantity="other">%d ঘণ্টা</item>
+    </plurals>
+    <plurals name="snoozeMinuteOptions">
+        <item quantity="one">%d মিনিট</item>
+        <item quantity="few">%d মিনিট</item>
+        <item quantity="other">%d মিনিট</item>
+    </plurals>
+    <plurals name="user_limit_reached_message">
+        <item quantity="one">আপনি %d জন পর্যন্ত ব্যবহারকারীর প্রোফাইল যোগ করতে পারেন।</item>
+        <item quantity="other">আপনি %d জন পর্যন্ত ব্যবহারকারীর প্রোফাইল যোগ করতে পারেন।</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="one">%1$dটি ডিভাইস কানেক্ট</item>
+        <item quantity="other">%1$dটি ডিভাইস কানেক্ট</item>
+    </plurals>
+</resources>

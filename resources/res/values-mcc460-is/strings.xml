@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_no_wifi">WLAN ótengt.</string>
+    <string name="accessibility_qs_edit_add_tile_label">%1$s. Ýttu tvisvar til að bæta við.</string>
+    <string name="accessibility_qs_edit_move_tile">Færa %1$s</string>
+    <string name="accessibility_qs_edit_remove_tile">Fjarlægja %1$s</string>
+    <string name="accessibility_qs_edit_tile_add">Bæta %1$s við í stöðu %2$d</string>
+    <string name="accessibility_qs_edit_tile_label">Staða %1$d, %2$s. Ýttu tvisvar til að breyta.</string>
+    <string name="accessibility_qs_edit_tile_move">Færa %1$s í stöðu %2$d</string>
+    <string name="accessibility_quick_settings_detail">Flýtistillingar, %s.</string>
+    <string name="accessibility_quick_settings_not_available">Ekki tiltækt vegna %s</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">Slökkt á WLAN.</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">Kveikt á WLAN.</string>
+    <string name="accessibility_wifi_off">Slökkt á WLAN.</string>
+    <string name="accessibility_wifi_one_bar">WLAN: Eitt strik.</string>
+    <string name="accessibility_wifi_signal_full">Fullur WLAN sendistyrkur.</string>
+    <string name="accessibility_wifi_three_bars">WLAN: Þrjú strik.</string>
+    <string name="accessibility_wifi_two_bars">WLAN: Tvö strik.</string>
+    <string name="connected_via_app">Tenging í gegnum %1$s</string>
+    <string name="mobile_data_always_on_summary">Hafa alltaf kveikt á farsímagögnum, líka þegar kveikt er á WLAN (til að skipta megi hratt milli kerfa).</string>
+    <string name="mobile_data_disable_message">Þú munt ekki hafa aðgang að gögnum eða internetinu í gegnum %s. Aðeins verður hægt að tengjast internetinu með WLAN.</string>
+    <string name="output_service_bt_wifi">Bluetooth og WLAN</string>
+    <string name="output_service_wifi">WLAN</string>
+    <string name="quick_settings_cast_no_wifi">WLAN ekki tengt</string>
+    <string name="quick_settings_wifi_connecting_label">WLAN: Tengist</string>
+    <string name="quick_settings_wifi_detail_empty_text">Engin WLAN net í boði</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">Slökkt á WLAN</string>
+    <string name="quick_settings_wifi_on_label">Kveikt á WLAN</string>
+    <string name="quick_settings_wifi_scanning_label">WLAN: Skannar</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="status_bar_wifi">WLAN-kerfi</string>
+    <string name="status_bar_wifi_hotspot">Heitur WLAN reitur</string>
+    <string name="wifi_disabled_wifi_failure">WLAN-tengingarvilla</string>
+    <string name="wifi_is_off">Slökkt á WLAN</string>
+    <string name="wifi_scan_throttling">Hægja á WLAN leit</string>
+    <string name="wifi_security_short_wapi_cert">WLAN-vottorð</string>
+    <string name="wifi_security_short_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN-vottorð</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_verbose_logging">Kveikja á ítarlegri skráningu WLAN</string>
+    <string name="wifi_verbose_logging_summary">Auka skráningarstig WLAN, sýna RSSI fyrir hvert SSID í WLAN vali</string>
+</resources>

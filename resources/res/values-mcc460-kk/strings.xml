@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_no_wifi">WLAN ажыратылған.</string>
+    <string name="accessibility_qs_edit_add_tile_label">%1$s. Қосу үшін екі рет түртіңіз.</string>
+    <string name="accessibility_qs_edit_move_tile">%1$s жылжыту</string>
+    <string name="accessibility_qs_edit_remove_tile">%1$s жою</string>
+    <string name="accessibility_qs_edit_tile_add">%1$s бөлшегін %2$d-позицияға енгізу</string>
+    <string name="accessibility_qs_edit_tile_label">%1$d орны, %2$s. Өңдеу үшін екі рет түртіңіз.</string>
+    <string name="accessibility_qs_edit_tile_move">%1$s бөлшегін %2$d-позицияға жылжыту</string>
+    <string name="accessibility_quick_settings_detail">Жылдам параметрлер, %s.</string>
+    <string name="accessibility_quick_settings_not_available">Қолжетімді емес, өйткені %s</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">WLAN өшірілді.</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">WLAN қосылды.</string>
+    <string name="accessibility_wifi_off">WLAN өшірулі.</string>
+    <string name="accessibility_wifi_one_bar">WLAN сигналы — бір жолақ.</string>
+    <string name="accessibility_wifi_signal_full">WLAN сигналы толық.</string>
+    <string name="accessibility_wifi_three_bars">WLAN сигналы — үш жолақ.</string>
+    <string name="accessibility_wifi_two_bars">WLAN сигналы — екі жолақ.</string>
+    <string name="connected_via_app">%1$s арқылы жалғанған</string>
+    <string name="mobile_data_always_on_summary">WLAN қосулы кезде де мобильдік интернетті өшірмеу (желіні жылдам ауыстыру үшін)</string>
+    <string name="mobile_data_disable_message">%s операторы арқылы деректерге немесе интернетке кіре алмайсыз. Интернетке тек WLAN арқылы кіресіз.</string>
+    <string name="output_service_bt_wifi">Bluetooth және WLAN</string>
+    <string name="output_service_wifi">WLAN</string>
+    <string name="quick_settings_cast_no_wifi">WLAN желісіне жалғанбаған</string>
+    <string name="quick_settings_wifi_connecting_label">WLAN: қосылуда</string>
+    <string name="quick_settings_wifi_detail_empty_text">Қолжетімді WLAN желілері жоқ</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">WLAN өшірулі</string>
+    <string name="quick_settings_wifi_on_label">WLAN қосулы</string>
+    <string name="quick_settings_wifi_scanning_label">WLAN: ізделуде</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="status_bar_wifi">WLAN</string>
+    <string name="status_bar_wifi_hotspot">WLAN ыстық нүктесі</string>
+    <string name="wifi_disabled_wifi_failure">WLAN байланысының қатесі</string>
+    <string name="wifi_is_off">WLAN өшірулі</string>
+    <string name="wifi_scan_throttling">WLAN іздеуін шектеу</string>
+    <string name="wifi_security_short_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_short_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_verbose_logging">WLAN егжей-тегжейлі журналы</string>
+    <string name="wifi_verbose_logging_summary">WLAN тіркеу деңгейін арттыру, WLAN таңдағанда әр SSID RSSI бойынша көрсету</string>
+</resources>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ImageView xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/restricted_icon" android:layout_width="@android:dimen/disabled_alpha_material_light" android:layout_height="@android:dimen/disabled_alpha_material_light" android:src="@android:drawable/ab_share_pack_holo_light" android:tint="?android:attr/colorAccent"/>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_no_wifi">WLAN 연결이 끊어졌습니다.</string>
+    <string name="accessibility_qs_edit_add_tile_label">%1$s. 추가하려면 두 번 탭하세요.</string>
+    <string name="accessibility_qs_edit_move_tile">%1$s 이동</string>
+    <string name="accessibility_qs_edit_remove_tile">%1$s 삭제</string>
+    <string name="accessibility_qs_edit_tile_add">%1$s 타일을 위치 %2$d에 추가</string>
+    <string name="accessibility_qs_edit_tile_label">위치 %1$d, %2$s. 수정하려면 두 번 탭하세요.</string>
+    <string name="accessibility_qs_edit_tile_move">%1$s 타일을 위치 %2$d(으)로 이동</string>
+    <string name="accessibility_quick_settings_detail">빠른 설정하기, %s</string>
+    <string name="accessibility_quick_settings_not_available">다음 이유로 사용할 수 없음: %s</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">WLAN가 사용 중지되었습니다.</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">WLAN를 사용합니다.</string>
+    <string name="accessibility_wifi_off">WLAN가 꺼져 있습니다.</string>
+    <string name="accessibility_wifi_one_bar">WLAN 신호 막대가 한 개입니다.</string>
+    <string name="accessibility_wifi_signal_full">WLAN 신호가 강합니다.</string>
+    <string name="accessibility_wifi_three_bars">WLAN 신호 막대가 세 개입니다.</string>
+    <string name="accessibility_wifi_two_bars">WLAN 신호 막대가 두 개입니다.</string>
+    <string name="connected_via_app">%1$s을(를) 통해 연결됨</string>
+    <string name="mobile_data_always_on_summary">WLAN가 활성화되어 있을 때에도 빠른 네트워크 전환을 위하여 항상 모바일 데이터를 활성 상태로 유지</string>
+    <string name="mobile_data_disable_message">%s을(를) 통해 데이터 또는 인터넷에 액세스할 수 없습니다. 인터넷은 WLAN를 통해서만 사용할 수 있습니다.</string>
+    <string name="output_service_bt_wifi">블루투스 및 WLAN</string>
+    <string name="output_service_wifi">WLAN</string>
+    <string name="quick_settings_cast_no_wifi">WLAN가 연결되어 있지 않음</string>
+    <string name="quick_settings_wifi_connecting_label">WLAN: 연결 중</string>
+    <string name="quick_settings_wifi_detail_empty_text">사용 가능한 WLAN 네트워크 없음</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">WLAN 꺼짐</string>
+    <string name="quick_settings_wifi_on_label">WLAN 사용</string>
+    <string name="quick_settings_wifi_scanning_label">WLAN: 검색 중</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="status_bar_wifi">WLAN</string>
+    <string name="status_bar_wifi_hotspot">WLAN 핫스팟</string>
+    <string name="wifi_disabled_wifi_failure">WLAN 연결 실패</string>
+    <string name="wifi_is_off">WLAN가 사용 중지됨</string>
+    <string name="wifi_scan_throttling">WLAN 검색 제한</string>
+    <string name="wifi_security_short_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_short_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_verbose_logging">WLAN 상세 로깅 사용</string>
+    <string name="wifi_verbose_logging_summary">WLAN 로깅 수준을 높이고, WLAN 선택도구에서 SSID RSSI당 값을 표시</string>
+</resources>

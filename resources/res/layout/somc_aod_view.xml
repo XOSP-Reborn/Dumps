@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.sonymobile.keyguard.aod.AodView xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/aod_view" android:background="#ff000000" android:layout_width="match_parent" android:layout_height="match_parent">
+    <FrameLayout android:layout_width="match_parent" android:layout_height="match_parent">
+        <com.sonymobile.keyguard.aod.PhotoPlaybackView android:orientation="vertical" android:id="@+id/aod_photo_playback_view" android:layout_width="match_parent" android:layout_height="match_parent" android:layoutDirection="ltr"/>
+        <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:id="@+id/aod_view_items" android:paddingLeft="15dp" android:paddingTop="15dp" android:paddingRight="15dp" android:paddingBottom="15dp" android:clipChildren="false" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="wrap_content">
+            <LinearLayout android:layout_gravity="center_horizontal" android:orientation="vertical" android:id="@+id/aod_clock_view" android:clipChildren="false" android:clipToPadding="false" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+            <com.sonymobile.keyguard.aod.NotificationsBatteryView android:layout_gravity="center_horizontal" android:orientation="horizontal" android:id="@+id/aod_notifications_battery_view" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+            <com.sonymobile.keyguard.aod.MusicInfoView android:layout_gravity="center_horizontal" android:orientation="vertical" android:id="@+id/aod_music_info_view" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+            <com.sonymobile.keyguard.aod.StickerView android:layout_gravity="center_horizontal" android:id="@+id/aod_sticker_view" android:paddingTop="20dp" android:visibility="visible" android:layout_width="240dp" android:layout_height="240dp"/>
+        </LinearLayout>
+        <com.sonymobile.keyguard.aod.FingerPrintFeedBackView android:orientation="vertical" android:id="@+id/aod_fingerprint_feedback_text" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    </FrameLayout>
+</com.sonymobile.keyguard.aod.AodView>

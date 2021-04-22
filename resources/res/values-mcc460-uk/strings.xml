@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_no_wifi">WLAN від’єднано.</string>
+    <string name="accessibility_qs_edit_add_tile_label">%1$s. Двічі торкніться, щоб додати.</string>
+    <string name="accessibility_qs_edit_move_tile">Перемістити %1$s</string>
+    <string name="accessibility_qs_edit_remove_tile">Видалити %1$s</string>
+    <string name="accessibility_qs_edit_tile_add">Додати %1$s на позицію %2$d</string>
+    <string name="accessibility_qs_edit_tile_label">Позиція %1$d, %2$s. Двічі торкніться, щоб змінити.</string>
+    <string name="accessibility_qs_edit_tile_move">Перемістити %1$s на позицію %2$d</string>
+    <string name="accessibility_quick_settings_detail">Швидкі налаштування, %s.</string>
+    <string name="accessibility_quick_settings_not_available">Недоступно, оскільки %s</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">WLAN вимкнено.</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">WLAN увімкнено.</string>
+    <string name="accessibility_wifi_off">WLAN вимкнено.</string>
+    <string name="accessibility_wifi_one_bar">Одна смужка сигналу WLAN.</string>
+    <string name="accessibility_wifi_signal_full">Максимальний сигнал WLAN.</string>
+    <string name="accessibility_wifi_three_bars">Три смужки сигналу WLAN.</string>
+    <string name="accessibility_wifi_two_bars">Дві смужки сигналу WLAN.</string>
+    <string name="connected_via_app">Підключено через додаток %1$s</string>
+    <string name="mobile_data_always_on_summary">Не вимикати мобільний Інтернет, навіть якщо ввімкнено WLAN (щоб швидше переходити між мережами).</string>
+    <string name="mobile_data_disable_message">Ви не матимете доступу до даних чи Інтернету через оператора %s. Інтернет буде доступний лише через WLAN.</string>
+    <string name="output_service_bt_wifi">Bluetooth і WLAN</string>
+    <string name="output_service_wifi">WLAN</string>
+    <string name="quick_settings_cast_no_wifi">WLAN не під’єднано</string>
+    <string name="quick_settings_wifi_connecting_label">WLAN: підключення</string>
+    <string name="quick_settings_wifi_detail_empty_text">Немає доступних мереж WLAN</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">WLAN вимкнено</string>
+    <string name="quick_settings_wifi_on_label">WLAN увімкнено</string>
+    <string name="quick_settings_wifi_scanning_label">WLAN: пошук</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="status_bar_wifi">WLAN</string>
+    <string name="status_bar_wifi_hotspot">Точка доступу WLAN</string>
+    <string name="wifi_disabled_wifi_failure">Помилка з’єднання WLAN</string>
+    <string name="wifi_is_off">WLAN вимкнено</string>
+    <string name="wifi_scan_throttling">Зменшити радіус пошуку мереж WLAN</string>
+    <string name="wifi_security_short_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_short_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_verbose_logging">Докладний запис у журнал WLAN</string>
+    <string name="wifi_verbose_logging_summary">Показувати в журналі RSSI для кожного SSID під час вибору WLAN</string>
+</resources>

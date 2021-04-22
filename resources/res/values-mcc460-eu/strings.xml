@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_data_connection_wifi">WLANa</string>
+    <string name="accessibility_no_wifi">Deskonektatu egin da WLAN konexioa.</string>
+    <string name="accessibility_qs_edit_add_tile_label">%1$s. Gehitzeko, sakatu birritan.</string>
+    <string name="accessibility_qs_edit_move_tile">Mugitu %1$s</string>
+    <string name="accessibility_qs_edit_remove_tile">Kendu %1$s</string>
+    <string name="accessibility_qs_edit_tile_add">Gehitu %1$s %2$dgarren postuan</string>
+    <string name="accessibility_qs_edit_tile_label">%1$d. posizioa, %2$s. Editatzeko, sakatu birritan.</string>
+    <string name="accessibility_qs_edit_tile_move">Eraman %1$s %2$dgarren postura</string>
+    <string name="accessibility_quick_settings_detail">Ezarpen bizkorrak: %s.</string>
+    <string name="accessibility_quick_settings_not_available">Ez dago erabilgarri arrazoi honengatik: %s</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">WLAN konexioa desaktibatu egin da.</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">WLAN konexioa aktibatu egin da.</string>
+    <string name="accessibility_wifi_off">Desaktibatuta dago WLAN konexioa.</string>
+    <string name="accessibility_wifi_one_bar">WLAN sarearen barra bat.</string>
+    <string name="accessibility_wifi_signal_full">WLAN sarearen seinalea osoa.</string>
+    <string name="accessibility_wifi_three_bars">WLAN sarearen hiru barra.</string>
+    <string name="accessibility_wifi_two_bars">WLAN sarearen bi barra.</string>
+    <string name="connected_via_app">%1$s bidez konektatuta</string>
+    <string name="mobile_data_disable_message">%s erabilita ezingo dituzu erabili datuak edo Internet. WLAN-sare baten bidez soilik konektatu ahal izango zara Internetera.</string>
+    <string name="output_service_bt_wifi">Bluetooth eta WLAN konexioak</string>
+    <string name="output_service_wifi">WLANa</string>
+    <string name="quick_settings_cast_no_wifi">Ez zaude konektatuta WLAN sarera</string>
+    <string name="quick_settings_wifi_detail_empty_text">Ez dago WLAN sarerik erabilgarri</string>
+    <string name="quick_settings_wifi_label">WLANa</string>
+    <string name="quick_settings_wifi_off_label">WLAN konexioa desaktibatuta</string>
+    <string name="quick_settings_wifi_on_label">Aktibatuta dago WLAN konexioa</string>
+    <string name="status_bar_settings_wifi_button">WLANa</string>
+    <string name="wifi_disabled_wifi_failure">Ezin izan da konektatu WLAN sarera</string>
+    <string name="wifi_is_off">WLAN konexioa desaktibatuta dago</string>
+    <string name="wifi_scan_throttling">WLAN-sareen bilaketaren muga</string>
+</resources>

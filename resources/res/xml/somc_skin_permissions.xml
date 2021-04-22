@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<overlay-resources>
+    <overlay id="@string/somc_themeable_analog_clock_plugin_enabled"/>
+    <overlay id="@string/somc_keyguard_themeable_analog_clock_name"/>
+    <filter-group group="clock_icon">
+        <filter maxHeight="40dp" maxWidth="40dp" minHeight="1px" minWidth="1px" type="size"/>
+        <filter type="type" value="bitmap,vector"/>
+    </filter-group>
+    <overlay filters="clock_icon" id="@drawable/somc_themeable_analog_clock_icon"/>
+    <filter-group group="clock_hand">
+        <filter maxHeight="260dp" maxWidth="260dp" minHeight="2px" minWidth="1px" type="size"/>
+        <filter type="type" value="bitmap,vector"/>
+    </filter-group>
+    <filter-group group="clock_pivot">
+        <filter tolerance="130dp" type="size" value="130dp"/>
+    </filter-group>
+    <overlay filters="clock_hand" id="@drawable/somc_themeable_analog_clock_hour_hand"/>
+    <overlay filters="clock_pivot" id="@dimen/somc_themeable_analog_clock_hour_hand_pivot_x"/>
+    <overlay filters="clock_pivot" id="@dimen/somc_themeable_analog_clock_hour_hand_pivot_y"/>
+    <overlay filters="clock_hand" id="@drawable/somc_themeable_analog_clock_minute_hand"/>
+    <overlay filters="clock_pivot" id="@dimen/somc_themeable_analog_clock_minute_hand_pivot_x"/>
+    <overlay filters="clock_pivot" id="@dimen/somc_themeable_analog_clock_minute_hand_pivot_y"/>
+    <overlay filters="clock_hand" id="@drawable/somc_themeable_analog_clock_second_hand"/>
+    <overlay filters="clock_pivot" id="@dimen/somc_themeable_analog_clock_second_hand_pivot_x"/>
+    <overlay filters="clock_pivot" id="@dimen/somc_themeable_analog_clock_second_hand_pivot_y"/>
+    <filter-group group="clock_face">
+        <filter maxHeight="260dp" maxWidth="260dp" minHeight="1px" minWidth="1px" type="size"/>
+        <filter type="type" value="bitmap,nine-patch,vector"/>
+    </filter-group>
+    <overlay filters="clock_face" id="@drawable/somc_themeable_analog_clock_face"/>
+    <filter-group group="lockscreen-color">
+        <filter type="type" value="color"/>
+    </filter-group>
+    <overlay filters="lockscreen-color" id="@color/somc_keyguard_theme_color_solid_foreground"/>
+    <overlay filters="lockscreen-color" id="@color/somc_keyguard_theme_color_solid_foreground_inverse"/>
+    <overlay filters="lockscreen-color" id="@color/somc_keyguard_theme_color_translucent_foreground"/>
+    <overlay filters="lockscreen-color" id="@color/somc_keyguard_theme_color_faint_foreground"/>
+    <overlay filters="lockscreen-color" id="@color/somc_keyguard_theme_color_ripple_color"/>
+    <overlay filters="lockscreen-color" id="@color/somc_keyguard_theme_color_primary_text"/>
+    <overlay filters="lockscreen-color" id="@color/somc_keyguard_theme_color_secondary_text"/>
+    <overlay filters="lockscreen-color" id="@color/somc_keyguard_theme_color_pattern_regular"/>
+    <overlay filters="lockscreen-color" id="@color/somc_keyguard_theme_color_pattern_error"/>
+    <overlay filters="lockscreen-color" id="@color/somc_keyguard_theme_color_scrim"/>
+    <overlay filters="lockscreen-color" id="@color/somc_keyguard_theme_color_clock_picker_back_plate"/>
+    <overlay filters="lockscreen-color" id="@color/somc_keyguard_theme_color_analog_clock_seconds_hand"/>
+    <filter-group group="password-cursor">
+        <filter maxHeight="40dp" maxWidth="40dp" minHeight="1px" minWidth="1px" type="size"/>
+        <filter type="type" value="bitmap,vector,nine-patch"/>
+    </filter-group>
+    <filter-group group="ninepatch-selector">
+        <filter type="type" value="selector">
+            <filter type="included" value="false"/>
+        </filter>
+        <filter type="type" value="nine-patch">
+            <filter type="included" value="true"/>
+        </filter>
+        <filter maxHeight="100dp" maxWidth="100dp" minHeight="3px" minWidth="3px" type="size"/>
+    </filter-group>
+    <overlay filters="ninepatch-selector" id="@drawable/somc_keyguard_secure_button"/>
+    <overlay id="@bool/somc_keyguard_statusbar_inversion"/>
+</overlay-resources>

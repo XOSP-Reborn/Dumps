@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_no_wifi">WLAN nije povezan.</string>
+    <string name="accessibility_qs_edit_add_tile_label">%1$s Dodirnite dvaput za dodavanje.</string>
+    <string name="accessibility_qs_edit_move_tile">Pomjeri %1$s</string>
+    <string name="accessibility_qs_edit_remove_tile">Ukloni %1$s</string>
+    <string name="accessibility_qs_edit_tile_add">Dodaj %1$s na poziciju %2$d</string>
+    <string name="accessibility_qs_edit_tile_label">Pozicija %1$d, %2$s. Dodirnite dvaput za uređivanje.</string>
+    <string name="accessibility_qs_edit_tile_move">Premjesti %1$s na poziciju %2$d</string>
+    <string name="accessibility_quick_settings_detail">Brze postavke, %s.</string>
+    <string name="accessibility_quick_settings_not_available">Nije dostupno zbog razloga %s</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">WLAN je isključen.</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">WLAN je uključen.</string>
+    <string name="accessibility_wifi_off">WLAN je isključen.</string>
+    <string name="accessibility_wifi_one_bar">WLAN signal ima jednu crtu.</string>
+    <string name="accessibility_wifi_signal_full">WLAN signal je pun.</string>
+    <string name="accessibility_wifi_three_bars">WLAN signal ima tri crte.</string>
+    <string name="accessibility_wifi_two_bars">WLAN signal ima dvije crte.</string>
+    <string name="connected_via_app">Povezano preko %1$s</string>
+    <string name="mobile_data_always_on_summary">Prijenos podataka na mobilnoj mreži ostaje aktivan čak i kada je aktiviran WLAN (za brzo prebacivanje između mreža).</string>
+    <string name="mobile_data_disable_message">Nećete imati pristup podacima ili internetu putem mobilnog operatera %s. Internet će biti dostupan samo putem WLAN mreže.</string>
+    <string name="output_service_bt_wifi">Bluetooth i WLAN</string>
+    <string name="output_service_wifi">WLAN</string>
+    <string name="quick_settings_cast_no_wifi">WLAN mreža nije povezana</string>
+    <string name="quick_settings_wifi_connecting_label">WLAN: povezivanje</string>
+    <string name="quick_settings_wifi_detail_empty_text">Nema dostupnih WLAN mreža</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">WLAN je isključen</string>
+    <string name="quick_settings_wifi_on_label">WLAN uključen</string>
+    <string name="quick_settings_wifi_scanning_label">WLAN: skeniranje</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="status_bar_wifi">WLAN</string>
+    <string name="status_bar_wifi_hotspot">WLAN pristupna tačka</string>
+    <string name="wifi_disabled_wifi_failure">Neuspjelo povezivanje na WLAN mrežu</string>
+    <string name="wifi_is_off">WLAN veza je isključena</string>
+    <string name="wifi_scan_throttling">Reguliranje skeniranja WLAN mreže</string>
+    <string name="wifi_security_short_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_short_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_verbose_logging">Omogući detaljni zapisnik za WLAN</string>
+    <string name="wifi_verbose_logging_summary">Povećani nivo zapisnika za WLAN. Prikaz po SSID RSSI-ju u Biraču WLAN-ja</string>
+</resources>

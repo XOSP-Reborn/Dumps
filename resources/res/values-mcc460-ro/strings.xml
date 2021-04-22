@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_no_wifi">WLAN deconectat.</string>
+    <string name="accessibility_qs_edit_add_tile_label">%1$s. Atingeți de două ori pentru a adăuga.</string>
+    <string name="accessibility_qs_edit_move_tile">Mutați %1$s</string>
+    <string name="accessibility_qs_edit_remove_tile">Eliminați %1$s</string>
+    <string name="accessibility_qs_edit_tile_add">Adăugați %1$s pe poziția %2$d</string>
+    <string name="accessibility_qs_edit_tile_label">Poziția %1$d, %2$s. Atingeți de două ori pentru a edita.</string>
+    <string name="accessibility_qs_edit_tile_move">Mutați %1$s pe poziția %2$d</string>
+    <string name="accessibility_quick_settings_detail">Setări rapide, %s.</string>
+    <string name="accessibility_quick_settings_not_available">Indisponibile deoarece %s</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">Conexiunea prin WLAN este dezactivată.</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">Conexiunea prin WLAN este activată.</string>
+    <string name="accessibility_wifi_off">WLAN dezactivat.</string>
+    <string name="accessibility_wifi_one_bar">Semnal WLAN: o bară.</string>
+    <string name="accessibility_wifi_signal_full">Semnal WLAN: complet.</string>
+    <string name="accessibility_wifi_three_bars">Semnal WLAN: trei bare.</string>
+    <string name="accessibility_wifi_two_bars">Semnal WLAN: două bare.</string>
+    <string name="connected_via_app">Conectat prin %1$s</string>
+    <string name="mobile_data_always_on_summary">Păstrați întotdeauna conexiunea de date mobile activată, chiar și atunci când funcția WLAN este activată (pentru comutarea rapidă între rețele).</string>
+    <string name="mobile_data_disable_message">Nu veți avea acces la date sau la internet prin intermediul %s. Internetul va fi disponibil numai prin WLAN.</string>
+    <string name="output_service_bt_wifi">Bluetooth și WLAN</string>
+    <string name="output_service_wifi">WLAN</string>
+    <string name="quick_settings_cast_no_wifi">Rețeaua WLAN nu este conectată</string>
+    <string name="quick_settings_wifi_connecting_label">WLAN: se conectează</string>
+    <string name="quick_settings_wifi_detail_empty_text">Nicio rețea WLAN disponibilă</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">WLAN deconectat</string>
+    <string name="quick_settings_wifi_on_label">WLAN activat</string>
+    <string name="quick_settings_wifi_scanning_label">WLAN: se caută</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="status_bar_wifi">WLAN</string>
+    <string name="status_bar_wifi_hotspot">Hotspot WLAN</string>
+    <string name="wifi_disabled_wifi_failure">Eroare de conexiune WLAN</string>
+    <string name="wifi_is_off">Conexiunea WLAN este dezactivată</string>
+    <string name="wifi_scan_throttling">Limitare căutare de rețele WLAN</string>
+    <string name="wifi_security_short_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_short_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_verbose_logging">Înregistrare prin WLAN de volume mari de date</string>
+    <string name="wifi_verbose_logging_summary">Măriți niv. de înr. prin WLAN, afișați în fcț. de SSID RSSI în Selectorul WLAN</string>
+</resources>

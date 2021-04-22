@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="docomo_widget_big_font_size">76.8dp</dimen>
+    <dimen name="somc_digital_clock_font_size">76dp</dimen>
+    <dimen name="widget_big_font_size">54dp</dimen>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_no_wifi">‏WLAN غیر منسلک ہو گیا۔</string>
+    <string name="accessibility_qs_edit_add_tile_label">%1$s۔ شامل کرنے کیلئے دو بار تھپتھپائیں۔</string>
+    <string name="accessibility_qs_edit_move_tile">%1$s کو منتقل کریں</string>
+    <string name="accessibility_qs_edit_remove_tile">%1$s ہٹائیں</string>
+    <string name="accessibility_qs_edit_tile_add">پوزیشن %1$s میں %2$d شامل کریں</string>
+    <string name="accessibility_qs_edit_tile_label">پوزیشن %1$d، %2$s۔ ترمیم کرنے کیلئے دو بار تھپتھپائیں۔</string>
+    <string name="accessibility_qs_edit_tile_move">%1$s کو پوزیشن %2$d میں منتقل کریں</string>
+    <string name="accessibility_quick_settings_detail">فوری ترتیبات، %s۔</string>
+    <string name="accessibility_quick_settings_not_available">%s کی وجہ سے دستیاب نہیں ہے</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">‏WLAN کو آف کر دیا گیا۔</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">‏WLAN کو آن کر دیا گیا۔</string>
+    <string name="accessibility_wifi_off">‏WLAN آف ہے۔</string>
+    <string name="accessibility_wifi_one_bar">‏WLAN ایک بار۔</string>
+    <string name="accessibility_wifi_signal_full">‏WLAN سگنل پورا ہے۔</string>
+    <string name="accessibility_wifi_three_bars">‏WLAN تین بارز۔</string>
+    <string name="accessibility_wifi_two_bars">‏WLAN دو بارز۔</string>
+    <string name="connected_via_app">%1$s کے ذریعے منسلک</string>
+    <string name="mobile_data_always_on_summary">‏WLAN فعال ہونے پر بھی موبائل ڈیٹا کو ہمیشہ فعال رکھیں (تیزی سے نیٹ ورک سوئچ کرنے کیلئے)۔</string>
+    <string name="mobile_data_disable_message">‏آپ کو %s کے ذریعے ڈیٹا یا انٹرنیٹ تک رسائی حاصل نہیں ہوگی۔ انٹرنیٹ صرف WLAN کے ذریعے دستیاب ہوگا۔</string>
+    <string name="output_service_bt_wifi">‏بلوٹوتھ اور WLAN</string>
+    <string name="output_service_wifi">WLAN</string>
+    <string name="quick_settings_cast_no_wifi">‏WLAN سے منسلک نہیں ہے</string>
+    <string name="quick_settings_wifi_detail_empty_text">‏کوئی WI-FI نیٹ ورک دستیاب نہیں</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">‏WLAN آف ہے</string>
+    <string name="quick_settings_wifi_on_label">‏WLAN آن ہے</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="wifi_disabled_wifi_failure">‏WLAN کنکشن کی ناکامی</string>
+    <string name="wifi_is_off">‏WLAN آف ہے</string>
+    <string name="wifi_scan_throttling">‏WLAN اسکین کو زبردستی روکا جا رہا ہے</string>
+    <string name="wifi_verbose_logging">‏WLAN وربوس لاگنگ فعال کریں</string>
+    <string name="wifi_verbose_logging_summary">‏WLAN لاگنگ لیول میں اضافہ کریں، WLAN منتخب کنندہ میں فی SSID RSSI دکھائیں</string>
+</resources>

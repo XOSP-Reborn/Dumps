@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_no_wifi">WLAN არ არის დაკავშირებული.</string>
+    <string name="accessibility_qs_edit_add_tile_label">%1$s. დასამატებლად, შეეხეთ ორმაგად.</string>
+    <string name="accessibility_qs_edit_move_tile">%1$s-ის გადატანა</string>
+    <string name="accessibility_qs_edit_remove_tile">%1$s-ის წაშლა</string>
+    <string name="accessibility_qs_edit_tile_add">%1$s-ის დამატება პოზიციაზე %2$d</string>
+    <string name="accessibility_qs_edit_tile_label">პოზიცია %1$d, %2$s. რედაქტირებისთვის, შეეხეთ ორმაგად.</string>
+    <string name="accessibility_qs_edit_tile_move">%1$s-ის გადატანა პოზიციაზე %2$d</string>
+    <string name="accessibility_quick_settings_detail">სწრაფი პარამეტრები, %s.</string>
+    <string name="accessibility_quick_settings_not_available">მიუწვდომელია, რადგან %s</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">WLAN გამორთულია.</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">WLAN ჩართულია.</string>
+    <string name="accessibility_wifi_off">WLAN გამორთულია.</string>
+    <string name="accessibility_wifi_one_bar">WLAN სიგნალი ერთ ზოლზეა.</string>
+    <string name="accessibility_wifi_signal_full">WLAN სიგნალი სრულია.</string>
+    <string name="accessibility_wifi_three_bars">WLAN სიგნალი სამ ზოლზეა.</string>
+    <string name="accessibility_wifi_two_bars">WLAN სიგნალი ორ ზოლზეა.</string>
+    <string name="connected_via_app">დაკავშირებულია %1$s-ით</string>
+    <string name="mobile_data_always_on_summary">მობილური მოწყობილობის მონაცემები ყოველთვის აქტიური დარჩეს, მაშინაც კი, როდესაც WLAN აქტიურია (ქსელის სწრაფი გადართვისთვის).</string>
+    <string name="mobile_data_disable_message">თქვენ არ გექნებათ მობილურ ინტერნეტზე ან ზოგადად ინტერნეტზე წვდომა %s-ის მეშვეობით. ინტერნეტი მხოლოდ WLAN-კავშირის მეშვეობით იქნება ხელმისაწვდომი.</string>
+    <string name="output_service_bt_wifi">Bluetooth და WLAN</string>
+    <string name="output_service_wifi">WLAN</string>
+    <string name="quick_settings_cast_no_wifi">WLAN არ არის დაკავშირებული</string>
+    <string name="quick_settings_wifi_detail_empty_text">WLAN ქსელები მიუწვდომელია</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">WLAN გამორთულია</string>
+    <string name="quick_settings_wifi_on_label">WLAN ჩართულია</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="wifi_disabled_wifi_failure">WLAN კავშირის შეფერხება</string>
+    <string name="wifi_is_off">WLAN გამორთულია</string>
+    <string name="wifi_scan_throttling">WLAN სკანირების რეგულირება</string>
+    <string name="wifi_verbose_logging">WLAN-ს დაწვრილებითი აღრიცხვის ჩართვა</string>
+    <string name="wifi_verbose_logging_summary">WLAN-ს აღრიცხვის დონის გაზრდა, WLAN ამომრჩეველში ყოველ SSID RSSI-ზე ჩვენება</string>
+</resources>

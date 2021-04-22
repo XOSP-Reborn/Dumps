@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="one">%d ದಿನಗಳ ಹಿಂದೆ</item>
+        <item quantity="other">%d ದಿನಗಳ ಹಿಂದೆ</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="one">%d ನಿಮಿಷದ ಹಿಂದೆ</item>
+        <item quantity="other">%d ನಿಮಿಷದ ಹಿಂದೆ</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="one">%d ವರ್ಷದ ಹಿಂದೆ</item>
+        <item quantity="other">%d ವರ್ಷದ ಹಿಂದೆ</item>
+    </plurals>
+    <plurals name="kg_password_default_pin_message">
+        <item quantity="one">ಸಿಮ್ ಪಿನ್ ನಮೂದಿಸಿ. ನಿಮ್ಮಲ್ಲಿ %d ಪ್ರಯತ್ನಗಳು ಬಾಕಿ ಉಳಿದಿವೆ.</item>
+        <item quantity="other">ಸಿಮ್ ಪಿನ್ ನಮೂದಿಸಿ. ನಿಮ್ಮಲ್ಲಿ %d ಪ್ರಯತ್ನಗಳು ಬಾಕಿ ಉಳಿದಿವೆ.</item>
+    </plurals>
+    <plurals name="kg_password_default_puk_message">
+        <item quantity="one">SIM ಇದೀಗ ಶಕ್ತಗೊಳಿಸಲಾಗಿದೆ. ಮುಂದುವರಿಯಲು PUK ಕೋಡ್ ನಮೂದಿಸಿ. SIM ಖಾಯಂ ಆಗಿ ಬಳಸಲಾಗದೇ ಇರುವ ಮೊದಲು ನಿಮ್ಮ ಬಳಿ %d ಬಾಕಿ ಉಳಿದಿರುವ ಪ್ರಯತ್ನವಿದೆ.</item>
+        <item quantity="other">SIM ಇದೀಗ ನಿಶಕ್ತಗೊಳಿಸಲಾಗಿದೆ. ಮುಂದುವರಿಯಲು PUK ಕೋಡ್ ನಮೂದಿಸಿ. SIM ಖಾಯಂ ಆಗಿ ಬಳಸಲಾಗದೇ ಇರುವ ಮೊದಲು ನಿಮ್ಮ ಬಳಿ %d ಪ್ರಯತ್ನಗಳು ಬಾಕಿ ಉಳಿದಿವೆ.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="one">ತಪ್ಪಾದ SIM PIN ಕೋಡ್, ನಿಮ್ಮ PUK ಕೋಡ್ (PIN ಅನ್‌ಲಾಕ್ ಕೋಡ್) ನಮೂದಿಸುವ ಮುನ್ನ ನಿಮ್ಮ ಬಳಿ %d ಪ್ರಯತ್ನಗಳು ಬಾಕಿ ಉಳಿದಿದೆ ಅಥವಾ ನಿಮ್ಮ ಸಾಧನ ಅನ್‌ಲಾಕ್ ಮಾಡಲು ನಿಮ್ಮ ಸೇವೆ ನೀಡುಗರನ್ನು ಸಂಪರ್ಕಿಸಿ.</item>
+        <item quantity="other">ತಪ್ಪಾದ SIM PIN ಕೋಡ್, ನಿಮ್ಮ PUK ಕೋಡ್ (PIN ಅನ್‌ಲಾಕ್ ಕೋಡ್) ನಮೂದಿಸುವ ಮುನ್ನ ನಿಮ್ಮ ಬಳಿ %d ಪ್ರಯತ್ನಗಳು ಬಾಕಿ ಉಳಿದಿದೆ ಅಥವಾ ನಿಮ್ಮ ಸಾಧನ ಅನ್‌ಲಾಕ್ ಮಾಡಲು ನಿಮ್ಮ ಸೇವೆ ನೀಡುಗರನ್ನು ಸಂಪರ್ಕಿಸಿ.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="one">ತಪ್ಪಾದ SIM PUK ಕೋಡ್, SIM ಖಾಯಂ ಆಗಿ ಬಳಸಲಾಗದಂತೆ ಆಗುವ ಮೊದಲು ನಿಮ್ಮಲ್ಲಿ %d ಬಾಕಿ ಉಳಿದಿರುವ ಪ್ರಯತ್ನವಿದೆ.</item>
+        <item quantity="other">ತಪ್ಪಾದ SIM PUK ಕೋಡ್, SIM ಖಾಯಂ ಆಗಿ ಬಳಸಲಾಗದಂತೆ ಆಗುವ ಮೊದಲು ನಿಮ್ಮಲ್ಲಿ %d ಬಾಕಿ ಉಳಿದಿರುವ ಪ್ರಯತ್ನಗಳಿವೆ.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_password">
+        <item quantity="one">ಸಾಧನವನ್ನು %d ಗಂಟೆಗಳವರೆಗೆ ಅನ್‌ಲಾಕ್‌ ಮಾಡಿರಲಿಲ್ಲ. ಪಾಸ್‌ವರ್ಡ್‌ ಖಚಿತಪಡಿಸಿ.</item>
+        <item quantity="other">ಸಾಧನವನ್ನು %d ಗಂಟೆಗಳವರೆಗೆ ಅನ್‌ಲಾಕ್‌ ಮಾಡಿರಲಿಲ್ಲ. ಪಾಸ್‌ವರ್ಡ್‌ ಖಚಿತಪಡಿಸಿ.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pattern">
+        <item quantity="one">ಸಾಧನವನ್ನು %d ಗಂಟೆಗಳವರೆಗೆ ಅನ್‌ಲಾಕ್‌ ಮಾಡಿರಲಿಲ್ಲ. ಪ್ಯಾಟರ್ನ್‌ ಖಚಿತಪಡಿಸಿ.</item>
+        <item quantity="other">ಸಾಧನವನ್ನು %d ಗಂಟೆಗಳವರೆಗೆ ಅನ್‌ಲಾಕ್‌ ಮಾಡಿರಲಿಲ್ಲ. ಪ್ಯಾಟರ್ನ್‌ ಖಚಿತಪಡಿಸಿ.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pin">
+        <item quantity="one">ಸಾಧನವನ್ನು %d ಗಂಟೆಗಳವರೆಗೆ ಅನ್‌ಲಾಕ್‌ ಮಾಡಿರಲಿಲ್ಲ. ಪಿನ್ ದೃಢೀಕರಿಸಿ.</item>
+        <item quantity="other">ಸಾಧನವನ್ನು %d ಗಂಟೆಗಳವರೆಗೆ ಅನ್‌ಲಾಕ್‌ ಮಾಡಿರಲಿಲ್ಲ. ಪಿನ್ ದೃಢೀಕರಿಸಿ.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="one">%d ಸೆಕೆಂಡುಗಳಲ್ಲಿ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.</item>
+        <item quantity="other">%d ಸೆಕೆಂಡುಗಳಲ್ಲಿ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.</item>
+    </plurals>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="one">%s ಕ್ಕಿಂತ ಹೆಚ್ಚು ಅಧಿಸೂಚನೆಗಳು ಒಳಗಿವೆ.</item>
+        <item quantity="other">%s ಕ್ಕಿಂತ ಹೆಚ್ಚು ಅಧಿಸೂಚನೆಗಳು ಒಳಗಿವೆ.</item>
+    </plurals>
+    <plurals name="quick_settings_hotspot_secondary_label_num_devices">
+        <item quantity="one">%d ಸಾಧನಗಳು</item>
+        <item quantity="other">%d ಸಾಧನಗಳು</item>
+    </plurals>
+    <plurals name="snoozeHourOptions">
+        <item quantity="one">%d ಗಂಟೆಗಳು</item>
+        <item quantity="two">%d ಗಂಟೆಗಳು</item>
+        <item quantity="few">%d ಗಂಟೆಗಳು</item>
+        <item quantity="other">%d ಗಂಟೆಗಳು</item>
+    </plurals>
+    <plurals name="snoozeMinuteOptions">
+        <item quantity="one">%d ನಿಮಿಷಗಳು</item>
+        <item quantity="few">%d ನಿಮಿಷಗಳು</item>
+        <item quantity="other">%d ನಿಮಿಷಗಳು</item>
+    </plurals>
+    <plurals name="user_limit_reached_message">
+        <item quantity="one">ನೀವು %d ಬಳಕೆದಾರರವರೆಗೆ ಸೇರಿಸಬಹುದು.</item>
+        <item quantity="other">ನೀವು %d ಬಳಕೆದಾರರವರೆಗೆ ಸೇರಿಸಬಹುದು.</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="one">%1$d ಸಾಧನಗಳನ್ನು ಸಂಪರ್ಕಿಸಲಾಗಿದೆ</item>
+        <item quantity="other">%1$d ಸಾಧನಗಳನ್ನು ಸಂಪರ್ಕಿಸಲಾಗಿದೆ</item>
+    </plurals>
+</resources>

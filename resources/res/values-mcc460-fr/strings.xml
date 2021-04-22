@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_no_wifi">WLAN déconnecté</string>
+    <string name="accessibility_qs_edit_add_tile_label">%1$s. Appuyer deux fois pour ajouter.</string>
+    <string name="accessibility_qs_edit_move_tile">Déplacer \"%1$s\"</string>
+    <string name="accessibility_qs_edit_remove_tile">Supprimer \"%1$s\"</string>
+    <string name="accessibility_qs_edit_tile_add">Ajouter l\'élément \"%1$s\" à la position %2$d</string>
+    <string name="accessibility_qs_edit_tile_label">Position %1$d, \"%2$s\". Appuyer deux fois pour modifier.</string>
+    <string name="accessibility_qs_edit_tile_move">Déplacer l\'élément \"%1$s\" à la position %2$d</string>
+    <string name="accessibility_quick_settings_detail">Configuration rapide – %s</string>
+    <string name="accessibility_quick_settings_not_available">Indisponible pour la raison suivante : %s</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">WLAN désactivé.</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">WLAN activé.</string>
+    <string name="accessibility_wifi_off">WLAN désactivé</string>
+    <string name="accessibility_wifi_one_bar">Signal WLAN faible</string>
+    <string name="accessibility_wifi_signal_full">Signal WLAN excellent</string>
+    <string name="accessibility_wifi_three_bars">Signal WLAN bon</string>
+    <string name="accessibility_wifi_two_bars">Signal WLAN moyen</string>
+    <string name="connected_via_app">Connecté via %1$s</string>
+    <string name="mobile_data_always_on_summary">Les données mobiles sont toujours actives, même lorsque le WLAN est activé (pour changer rapidement de réseau)</string>
+    <string name="mobile_data_disable_message">Vous n\'aurez pas accès aux données mobiles ni à Internet via %s. Vous ne pourrez accéder à Internet que par WLAN.</string>
+    <string name="output_service_bt_wifi">Bluetooth et WLAN</string>
+    <string name="output_service_wifi">WLAN</string>
+    <string name="quick_settings_cast_no_wifi">WLAN non connecté</string>
+    <string name="quick_settings_wifi_connecting_label">WLAN : connexion</string>
+    <string name="quick_settings_wifi_detail_empty_text">Aucun réseau WLAN disponible</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">WLAN désactivé</string>
+    <string name="quick_settings_wifi_on_label">WLAN activé</string>
+    <string name="quick_settings_wifi_scanning_label">WLAN : recherche</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="status_bar_wifi">WLAN</string>
+    <string name="status_bar_wifi_hotspot">Point d\'accès WLAN</string>
+    <string name="tether_settings_title_wifi">Point d\'accès WLAN mobile</string>
+    <string name="wifi_disabled_wifi_failure">Échec de la connexion WLAN</string>
+    <string name="wifi_is_off">WLAN désactivé</string>
+    <string name="wifi_scan_throttling">Limiter la recherche WLAN</string>
+    <string name="wifi_security_short_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_short_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_verbose_logging">Autoriser l\'enregistrement d\'infos WLAN détaillées</string>
+    <string name="wifi_verbose_logging_summary">Détailler les infos WLAN, afficher par RSSI de SSID dans l\'outil de sélection WLAN</string>
+</resources>

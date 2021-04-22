@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layoutDirection="ltr">
+    <com.sonymobile.keyguard.plugin.sonyclock2.SonyClock2Digit android:id="@+id/somc_sony_clock_2_minute_tens_digit" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <com.sonymobile.keyguard.plugin.sonyclock2.SonyClock2Canvas android:id="@+id/minute_tens_digit" android:layout_width="@dimen/sony_clock_2_minute_digit_width" android:layout_height="@dimen/sony_clock_2_minute_digit_height"/>
+        <TextView android:textSize="@dimen/somc_sony_clock_2_minute_digit_size_for_text" android:textColor="?attr/wallpaperTextColor" android:gravity="center" android:id="@+id/minute_tens_digit_text" android:visibility="gone" android:layout_width="@dimen/sony_clock_2_minute_digit_width_for_text" android:layout_height="@dimen/sony_clock_2_minute_digit_height_for_text" android:importantForAccessibility="no" style="@style/somc_sony_clock_2_minute_style"/>
+    </com.sonymobile.keyguard.plugin.sonyclock2.SonyClock2Digit>
+    <com.sonymobile.keyguard.plugin.sonyclock2.SonyClock2Digit android:id="@+id/somc_sony_clock_2_minute_ones_digit" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <com.sonymobile.keyguard.plugin.sonyclock2.SonyClock2Canvas android:id="@+id/minute_ones_digit" android:layout_width="@dimen/sony_clock_2_minute_digit_width" android:layout_height="@dimen/sony_clock_2_minute_digit_height"/>
+        <TextView android:textSize="@dimen/somc_sony_clock_2_minute_digit_size_for_text" android:textColor="?attr/wallpaperTextColor" android:gravity="center" android:id="@+id/minute_ones_digit_text" android:visibility="gone" android:layout_width="@dimen/sony_clock_2_minute_digit_width_for_text" android:layout_height="@dimen/sony_clock_2_minute_digit_height_for_text" android:importantForAccessibility="no" style="@style/somc_sony_clock_2_minute_style"/>
+    </com.sonymobile.keyguard.plugin.sonyclock2.SonyClock2Digit>
+    <TextView android:textSize="@dimen/somc_sony_clock_2_ampm_text_size" android:textColor="?attr/wallpaperTextColor" android:id="@+id/somc_sony_clock_2_ampm" android:layout_width="wrap_content" android:layout_height="wrap_content" android:includeFontPadding="false" android:layout_marginStart="@dimen/sony_clock_2_ampm_margin_start" style="@style/somc_sony_clock_2_date_style"/>
+</LinearLayout>

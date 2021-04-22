@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="one">%d ditë më parë</item>
+        <item quantity="other">%d ditë më parë</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="one">%d minutë më parë</item>
+        <item quantity="other">%d minuta më parë</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="one">%d vit më parë</item>
+        <item quantity="other">%d vite më parë</item>
+    </plurals>
+    <plurals name="kg_password_default_pin_message">
+        <item quantity="one">Fut kodin PIN të kartës SIM. Të ka mbetur edhe %d tentativë para se të duhet të kontaktosh me operatorin tënd celular për ta shkyçur pajisjen.</item>
+        <item quantity="other">Fut kodin PIN të kartës SIM. Të kanë mbetur edhe %d tentativa.</item>
+    </plurals>
+    <plurals name="kg_password_default_puk_message">
+        <item quantity="one">Karta SIM është çaktivizuar tani. Futni kodin PUK për të vazhduar. Keni %d përpjekje të mbetur para se karta SIM të bëhet përfundimisht e papërdorshme. Kontaktoni me bartësin për hollësitë.</item>
+        <item quantity="other">Karta SIM është çaktivizuar tani. Futni kodin PUK për të vazhduar. Keni %d përpjekje të mbetura para se karta SIM të bëhet përfundimisht e papërdorshme. Kontaktoni me bartësin për hollësitë.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="one">Kodi PIN i kartës SIM i pasaktë. Keni %d përpjekje të mbetur para se të duhet të futni kodin tuaj PUK (kodi i shkyçjes së PIN-it) ose kontaktoni me ofruesin e shërbimit për të shkyçur pajisjen tuaj.</item>
+        <item quantity="other">Kodi PIN i kartës SIM i pasaktë. Keni %d përpjekje të mbetura para se të duhet të futni kodin tuaj PUK (kodi i shkyçjes së PIN-it) ose kontaktoni me ofruesin e shërbimit për të shkyçur pajisjen tuaj.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="one">Kodi PUK i kartës SIM i pasaktë. Keni %d përpjekje të mbetur para se karta SIM të bëhet përgjithmonë e papërdorshme.</item>
+        <item quantity="other">Kodi PUK i kartës SIM i pasaktë. Keni %d përpjekje të mbetura para se karta SIM të bëhet përgjithmonë e papërdorshme.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_password">
+        <item quantity="one">Pajisja nuk është shkyçur për %d orë. Konfirmo fjalëkalimin.</item>
+        <item quantity="other">Pajisja nuk është shkyçur për %d orë. Konfirmo fjalëkalimin.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pattern">
+        <item quantity="one">Pajisja nuk është shkyçur për %d orë. Konfirmo motivin.</item>
+        <item quantity="other">Pajisja nuk është shkyçur për %d orë. Konfirmo motivin.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pin">
+        <item quantity="one">Pajisja nuk është shkyçur për %d orë. Konfirmo kodin PIN.</item>
+        <item quantity="other">Pajisja nuk është shkyçur për %d orë. Konfirmo kodin PIN.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="one">Provo sërish për 1 sekondë.</item>
+        <item quantity="other">Provo sërish për %d sekonda.</item>
+    </plurals>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="one">%s njoftim tjetër në brendësi.</item>
+        <item quantity="other">%s njoftime të tjera në brendësi.</item>
+    </plurals>
+    <plurals name="quick_settings_hotspot_secondary_label_num_devices">
+        <item quantity="one">%d pajisje</item>
+        <item quantity="other">%d pajisje</item>
+    </plurals>
+    <plurals name="snoozeHourOptions">
+        <item quantity="one">%d orë</item>
+        <item quantity="two">%d orë</item>
+        <item quantity="few">%d orë</item>
+        <item quantity="other">%d orë</item>
+    </plurals>
+    <plurals name="snoozeMinuteOptions">
+        <item quantity="one">%d minutë</item>
+        <item quantity="few">%d minuta</item>
+        <item quantity="other">%d minuta</item>
+    </plurals>
+    <plurals name="user_limit_reached_message">
+        <item quantity="one">Mund të krijohet vetëm një përdorues.</item>
+        <item quantity="other">Mund të shtoni deri në %d përdorues.</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="one">%1$d pajisje e lidhur</item>
+        <item quantity="other">%1$d pajisje të lidhura</item>
+    </plurals>
+</resources>

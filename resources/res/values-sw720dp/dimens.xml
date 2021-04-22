@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="docomo_mic_height">80dp</dimen>
+    <dimen name="docomo_mic_width">120dp</dimen>
+    <dimen name="docomo_widget_big_font_size">120dp</dimen>
+    <dimen name="docomo_widget_width">420dp</dimen>
+    <dimen name="keyguard_security_height">470dp</dimen>
+    <dimen name="mr_dialog_fixed_width_major">50%</dimen>
+    <dimen name="mr_dialog_fixed_width_minor">70%</dimen>
+    <dimen name="notification_panel_min_height">770dp</dimen>
+    <dimen name="panel_float">56dp</dimen>
+    <dimen name="somc_analog_clock_center_size">@dimen/somc_analog_clock_center_size_larger</dimen>
+    <dimen name="somc_analog_clock_center_stroke_width">@dimen/somc_analog_clock_center_stroke_width_larger</dimen>
+    <dimen name="somc_analog_clock_date_text_size">@dimen/somc_analog_clock_date_text_size_larger</dimen>
+    <dimen name="somc_analog_clock_date_text_space">@dimen/somc_analog_clock_date_text_space_larger</dimen>
+    <dimen name="somc_analog_clock_ellipse_depth">@dimen/somc_analog_clock_ellipse_depth_larger</dimen>
+    <dimen name="somc_analog_clock_hour_hand_length">@dimen/somc_analog_clock_hour_hand_length_larger</dimen>
+    <dimen name="somc_analog_clock_hour_hand_thickness">@dimen/somc_analog_clock_hour_hand_thickness_larger</dimen>
+    <dimen name="somc_analog_clock_hour_tick_length">@dimen/somc_analog_clock_hour_tick_length_larger</dimen>
+    <dimen name="somc_analog_clock_minute_hand_length">@dimen/somc_analog_clock_minute_hand_length_larger</dimen>
+    <dimen name="somc_analog_clock_minute_hand_thickness">@dimen/somc_analog_clock_minute_hand_thickness_larger</dimen>
+    <dimen name="somc_analog_clock_minute_tick_length">@dimen/somc_analog_clock_minute_tick_length_larger</dimen>
+    <dimen name="somc_analog_clock_second_dot_diameter">@dimen/somc_analog_clock_second_dot_diameter_larger</dimen>
+    <dimen name="somc_analog_clock_size">@dimen/somc_analog_clock_size_larger</dimen>
+    <dimen name="somc_analog_clock_tick_radius">@dimen/somc_analog_clock_tick_radius_larger</dimen>
+    <dimen name="somc_analog_clock_tick_width">@dimen/somc_analog_clock_tick_width_larger</dimen>
+    <dimen name="somc_digital_clock_ampm_padding_top">41dp</dimen>
+    <dimen name="somc_digital_clock_font_size">110dp</dimen>
+    <dimen name="somc_keyguard_clock_picker_clock_back_plate_height">390dp</dimen>
+    <dimen name="somc_keyguard_clock_picker_clock_back_plate_width">390dp</dimen>
+    <dimen name="status_bar_icon_padding">1dp</dimen>
+    <dimen name="widget_big_font_size">100dp</dimen>
+</resources>

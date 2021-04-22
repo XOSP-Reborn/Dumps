@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="kg_sim_puk_account_full_screen">false</bool>
+    <bool name="quick_settings_wide">true</bool>
+    <bool name="somc_keyguard_use_default_clock">true</bool>
+</resources>

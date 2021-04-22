@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_no_wifi">WLAN туташуусу жок.</string>
+    <string name="accessibility_qs_edit_add_tile_label">%1$s. Кошуу үчүн эки жолу таптаңыз.</string>
+    <string name="accessibility_qs_edit_move_tile">%1$s дегенди жылдыруу</string>
+    <string name="accessibility_qs_edit_remove_tile">%1$s дегенди алып салуу</string>
+    <string name="accessibility_qs_edit_tile_add">%1$s плиткасы %2$d-позицияга кошулсун</string>
+    <string name="accessibility_qs_edit_tile_label">Орду - %1$d, %2$s. Түзөтүү үчүн эки жолу таптаңыз.</string>
+    <string name="accessibility_qs_edit_tile_move">%1$s плиткасы %2$d-позицияга кошулсун</string>
+    <string name="accessibility_quick_settings_detail">Ыкчам жөндөөлөр, %s.</string>
+    <string name="accessibility_quick_settings_not_available">%s себебине байланыштуу жеткиликсиз</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">WLAN өчүрүлдү.</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">WLAN күйгүзүлдү.</string>
+    <string name="accessibility_wifi_off">WLAN өчүк.</string>
+    <string name="accessibility_wifi_one_bar">WLAN: бир таякча.</string>
+    <string name="accessibility_wifi_signal_full">WLAN: күчтүү сигнал.</string>
+    <string name="accessibility_wifi_three_bars">WLAN: үч таякча.</string>
+    <string name="accessibility_wifi_two_bars">WLAN: эки таякча.</string>
+    <string name="connected_via_app">%1$s аркылуу туташты</string>
+    <string name="mobile_data_always_on_summary">WLAN иштеп турганда да дайындар мобилдик тармак аркылуу өткөрүлө берет (бир тармактан экинчисине тезирээк которулуу үчүн).</string>
+    <string name="mobile_data_disable_message">%s байланыш оператору аркылуу дайындарга же Интернетке кирүү мүмкүнчүлүгүңүз болбойт. Интернетке WLAN аркылуу гана кире аласыз.</string>
+    <string name="output_service_bt_wifi">Bluetooth жана WLAN</string>
+    <string name="output_service_wifi">WLAN</string>
+    <string name="quick_settings_cast_no_wifi">WLAN туташкан жок</string>
+    <string name="quick_settings_wifi_detail_empty_text">Бир дагы жеткиликтүү WLAN тармагы жок</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">WLAN өчүк</string>
+    <string name="quick_settings_wifi_on_label">WLAN күйүк</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="tether_settings_title_wifi">WLAN байланыш түйүнү</string>
+    <string name="wifi_disabled_wifi_failure">WLAN туташуусу бузулду</string>
+    <string name="wifi_is_off">WLAN өчүк</string>
+    <string name="wifi_scan_throttling">WLAN тармактарын издөөнү жөнгө салуу</string>
+    <string name="wifi_verbose_logging">WLAN дайын-даректүү журналы</string>
+    <string name="wifi_verbose_logging_summary">WLAN тандалганда ар бир SSID үчүн RSSI көрүнүп турат</string>
+</resources>

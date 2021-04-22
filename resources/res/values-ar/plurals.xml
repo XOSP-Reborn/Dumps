@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="zero">قبل %d يوم</item>
+        <item quantity="one">قبل %d يوم</item>
+        <item quantity="two">قبل يومين (%d)</item>
+        <item quantity="few">قبل %d أيام</item>
+        <item quantity="many">قبل %d يومًا</item>
+        <item quantity="other">قبل %d يوم</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="zero">قبل %d دقيقة</item>
+        <item quantity="one">قبل %d دقيقة</item>
+        <item quantity="two">قبل دقيقتين (%d)</item>
+        <item quantity="few">قبل %d دقائق</item>
+        <item quantity="many">قبل %d دقيقة</item>
+        <item quantity="other">قبل %d دقيقة</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="zero">قبل %d سنة</item>
+        <item quantity="one">قبل %d سنة</item>
+        <item quantity="two">قبل سنتين (%d)</item>
+        <item quantity="few">قبل %d سنوات</item>
+        <item quantity="many">قبل %d سنة</item>
+        <item quantity="other">قبل %d سنة</item>
+    </plurals>
+    <plurals name="kg_password_default_pin_message">
+        <item quantity="one">‏أدخل رقم التعريف الشخصي لشريحة SIM. تتبقى لديك محاولة واحدة (%d) يجب أن تتصل بعدها بمشغّل شبكة الجوّال لفتح الجهاز.</item>
+        <item quantity="other">‏أدخل رقم التعريف الشخصي لشريحة SIM. تتبقى لديك %d محاولة.</item>
+    </plurals>
+    <plurals name="kg_password_default_puk_message">
+        <item quantity="one">بطاقة SIM معطلة الآن. أدخل رمز PUK للمتابعة. لديك %d محاولة متبقية قبل أن تصبح بطاقة SIM غير قابلة للاستخدام بشكل نهائي. اتصل بموفر الخدمة للاطلاع على التفاصيل.</item>
+        <item quantity="other">بطاقة SIM معطلة الآن. أدخل رمز PUK للمتابعة. لديك %d محاولات متبقية قبل أن تصبح بطاقة SIM غير قابلة للاستخدام بشكل نهائي. اتصل بموفر الخدمة للاطلاع على التفاصيل.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="one">‏رمز رقم التعريف الشخصي لبطاقة SIM غير صحيح، ويتبقى لديك %d من المحاولات قبل أن يستلزم الأمر منك إدخال رمز PUK الخاص بك (رمز إلغاء قفل رقم التعريف الشخصي) أو الاتصال بموفر الخدمة لإلغاء قفل الجهاز.</item>
+        <item quantity="other">‏رمز رقم التعريف الشخصي لبطاقة SIM غير صحيح، يتبقى لديك %d من المحاولات قبل أن يستلزم الأمر منك إدخال رمز PUK الخاص بك (رمز إلغاء قفل رقم التعريف الشخصي) أو الاتصال بموفر الخدمة لإلغاء قفل الجهاز.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="one">‏رمز PUK لشريحة SIM غير صالح، ويتبقى لديك محاولة واحدة (%d)، تصبح بعدها شريحة SIM غير صالحة للاستخدام بشكل دائم.</item>
+        <item quantity="other">‏رمز PUK لشريحة SIM غير صحيح، ويتبقى لديك %d من المحاولات تصبح بعدها شريحة SIM غير صالحة للاستخدام بشكل دائم.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_password">
+        <item quantity="one">لم يتم إلغاء تأمين الجهاز لمدة %d ساعة. تأكيد كلمة المرور.</item>
+        <item quantity="other">لم يتم إلغاء تأمين الجهاز لمدة %d ساعة. تأكيد كلمة المرور.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pattern">
+        <item quantity="one">لم يتم إلغاء تأمين الجهاز لمدة %d ساعة. تأكيد النقش.</item>
+        <item quantity="other">لم يتم إلغاء تأمين الجهاز لمدة %d ساعة. تأكيد النقش.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pin">
+        <item quantity="one">لم يتم إلغاء تأمين الجهاز لمدة %d ساعة. تأكيد رقم التعريف الشخصي.</item>
+        <item quantity="other">لم يتم إلغاء تأمين الجهاز لمدة %d ساعة. تأكيد رقم التعريف الشخصي.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="one">حاول مرة أخرى خلال ثانية واحدة.</item>
+        <item quantity="other">حاول مرة أخرى خلال %d ثانية.</item>
+    </plurals>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="one">%s إشعار آخر بداخل المجموعة.</item>
+        <item quantity="other">%s إشعار آخر بداخل المجموعة.</item>
+    </plurals>
+    <plurals name="quick_settings_hotspot_secondary_label_num_devices">
+        <item quantity="one">‏جهاز واحد (%d)</item>
+        <item quantity="other">‏%d جهاز</item>
+    </plurals>
+    <plurals name="snoozeHourOptions">
+        <item quantity="one">ساعة واحدة</item>
+        <item quantity="two">‏ساعتان (%d)</item>
+        <item quantity="few">‏%d ساعات</item>
+        <item quantity="other">‏%d ساعة</item>
+    </plurals>
+    <plurals name="snoozeMinuteOptions">
+        <item quantity="one">دقيقة واحدة</item>
+        <item quantity="few">‏%d دقائق</item>
+        <item quantity="other">‏%d دقيقة</item>
+    </plurals>
+    <plurals name="user_limit_reached_message">
+        <item quantity="one">يمكن إنشاء مستخدم واحد فقط.</item>
+        <item quantity="other">يمكنك إضافة ما يصل إلى %d مستخدم.</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="one">‏عدد الأجهزة المتصلة ‎%1$d</item>
+        <item quantity="other">‏عدد الأجهزة المتصلة ‎%1$d</item>
+    </plurals>
+</resources>

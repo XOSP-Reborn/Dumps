@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:layout_gravity="top|right|center_vertical|center_horizontal|center|end" android:id="@+id/multiwindow_button" android:paddingTop="@dimen/notification_multiwindow_button_padding_top" android:paddingBottom="@dimen/notification_multiwindow_button_padding_bottom" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="@string/multi_window_button_description" android:paddingStart="@dimen/notification_multiwindow_button_padding_start" android:paddingEnd="@dimen/notification_multiwindow_button_padding_end">
+    <RelativeLayout android:gravity="center" android:id="@+id/multiwindow_button_background" android:background="@drawable/ic_multiwindow_button_background" android:layout_width="@dimen/multiwindow_button_background_width" android:layout_height="@dimen/multiwindow_button_background_height">
+        <ImageView android:id="@+id/multiwindow_button_image" android:layout_width="@dimen/multiwindow_button_width" android:layout_height="@dimen/multiwindow_button_height" android:src="@drawable/ic_multiwindow_notification" android:alpha="@dimen/multi_window_button_image_alpha"/>
+    </RelativeLayout>
+</RelativeLayout>

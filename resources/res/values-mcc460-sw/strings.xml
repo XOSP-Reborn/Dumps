@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_no_wifi">WLAN imeondolewa.</string>
+    <string name="accessibility_qs_edit_add_tile_label">%1$s. Gusa mara mbili ili uongeze.</string>
+    <string name="accessibility_qs_edit_move_tile">Hamisha %1$s</string>
+    <string name="accessibility_qs_edit_remove_tile">Ondoa %1$s</string>
+    <string name="accessibility_qs_edit_tile_add">Ongeza %1$s kwenye nafasi ya %2$d</string>
+    <string name="accessibility_qs_edit_tile_label">Nafasi ya %1$d, %2$s. Gusa mara mbili ili ubadilishe.</string>
+    <string name="accessibility_qs_edit_tile_move">Sogeza %1$s kwenye nafasi ya %2$d</string>
+    <string name="accessibility_quick_settings_detail">Mipangilio ya Haraka, %s.</string>
+    <string name="accessibility_quick_settings_not_available">Haipatikani kutokana na %s</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">WLAN imezimwa.</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">WLAN imewashwa.</string>
+    <string name="accessibility_wifi_off">WLAN imezimwa.</string>
+    <string name="accessibility_wifi_one_bar">Kipima mtandao kimoja cha WLAN.</string>
+    <string name="accessibility_wifi_signal_full">Nguvu kamili ya mtandao wa WLAN.</string>
+    <string name="accessibility_wifi_three_bars">Vipima mtandao vitatu vya WLAN.</string>
+    <string name="accessibility_wifi_two_bars">Vipima mtandao viwili vya WLAN.</string>
+    <string name="connected_via_app">Imeunganishwa kupitia %1$s</string>
+    <string name="mobile_data_always_on_summary">Washa data ya kifaa cha mkononi kila wakati, hata kama WLAN inatumika (ili kubadili mtandao kwa haraka).</string>
+    <string name="mobile_data_disable_message">Hutaweza kufikia data au intaneti kupitia %s. Intaneti itapatikana kupitia WLAN pekee.</string>
+    <string name="output_service_bt_wifi">Bluetooth na WLAN</string>
+    <string name="output_service_wifi">WLAN</string>
+    <string name="quick_settings_cast_no_wifi">WLAN haijaunganishwa</string>
+    <string name="quick_settings_wifi_detail_empty_text">Hakuna mitandao ya WLAN inayopatikana</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">WLAN Imezimwa</string>
+    <string name="quick_settings_wifi_on_label">Imewasha WLAN</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="wifi_disabled_wifi_failure">Haikuweza Kuunganisha kwenye WLAN</string>
+    <string name="wifi_is_off">WLAN imezimwa</string>
+    <string name="wifi_scan_throttling">Kudhibiti utafutaji wa WLAN</string>
+    <string name="wifi_verbose_logging">Washa Uwekaji kumbukumbu za WLAN kutumia Sauti</string>
+    <string name="wifi_verbose_logging_summary">Ongeza hatua ya uwekaji kumbukumbu ya WLAN, onyesha kwa kila SSID RSSI kwenye Kichukuzi cha WLAN</string>
+</resources>

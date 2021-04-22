@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_no_wifi">„WLAN“ atjungtas.</string>
+    <string name="accessibility_qs_edit_add_tile_label">Išklotinės elementas „%1$s“. Dukart palieskite, kad pridėtumėte.</string>
+    <string name="accessibility_qs_edit_move_tile">Perkelti išklotinės elementą „%1$s“</string>
+    <string name="accessibility_qs_edit_remove_tile">Pašalinti išklotinės elementą „%1$s“</string>
+    <string name="accessibility_qs_edit_tile_add">Pridėti išklotinės elementą „%1$s“ į %2$d padėtį</string>
+    <string name="accessibility_qs_edit_tile_label">%1$d padėtis, išklotinės elementas „%2$s“. Dukart palieskite, kad redaguotumėte.</string>
+    <string name="accessibility_qs_edit_tile_move">Perkelti išklotinės elementą „%1$s“ į %2$d padėtį</string>
+    <string name="accessibility_quick_settings_detail">Spartieji nustatymai, „%s“.</string>
+    <string name="accessibility_quick_settings_not_available">Nepasiekiama dėl %s</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">„WLAN“ ryšys išjungtas.</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">„WLAN“ ryšys įjungtas.</string>
+    <string name="accessibility_wifi_off">„WLAN“ išjungtas.</string>
+    <string name="accessibility_wifi_one_bar">Viena „WLAN“ signalo juosta.</string>
+    <string name="accessibility_wifi_signal_full">Stiprus „WLAN“ signalas.</string>
+    <string name="accessibility_wifi_three_bars">Trys „WLAN“ signalo juostos.</string>
+    <string name="accessibility_wifi_two_bars">Dvi „WLAN“ signalo juostos.</string>
+    <string name="connected_via_app">Prisijungta naudojant programą „%1$s“</string>
+    <string name="mobile_data_always_on_summary">Visada suaktyvinti mobiliojo ryšio duomenis, net kai aktyvus „WLAN“ ryšys (kad būtų galima greitai perjungti tinklą).</string>
+    <string name="mobile_data_disable_message">Naudodamiesi „%s“ paslaugomis neturėsite galimybės pasiekti duomenų arba interneto. Internetą galėsite naudoti tik prisijungę prie „WLAN“.</string>
+    <string name="output_service_bt_wifi">„Bluetooth“ ir „WLAN“</string>
+    <string name="output_service_wifi">WLAN</string>
+    <string name="quick_settings_cast_no_wifi">„WLAN“ neprijungtas</string>
+    <string name="quick_settings_wifi_connecting_label">„WLAN“: prisijungiama</string>
+    <string name="quick_settings_wifi_detail_empty_text">Nėra jokių pasiekiamų „WLAN“ tinklų</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">„WLAN“ išjungta</string>
+    <string name="quick_settings_wifi_on_label">„WLAN“ įjungtas</string>
+    <string name="quick_settings_wifi_scanning_label">„WLAN“: nuskaitoma</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="status_bar_wifi">WLAN</string>
+    <string name="status_bar_wifi_hotspot">„WLAN“ prieigos taškas</string>
+    <string name="wifi_disabled_wifi_failure">„WLAN“ ryšio triktis</string>
+    <string name="wifi_is_off">„WLAN“ išjungtas</string>
+    <string name="wifi_scan_throttling">„WLAN“ nuskaitymo ribojimas</string>
+    <string name="wifi_security_short_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_short_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+    <string name="wifi_verbose_logging">Įgal. „WLAN“ daugiaž. įraš. į žurnalą</string>
+    <string name="wifi_verbose_logging_summary">Padidinti „WLAN“ įrašymo į žurnalą lygį, rodyti SSID RSSI „WLAN“ rinkiklyje</string>
+</resources>

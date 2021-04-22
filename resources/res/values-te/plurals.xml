@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="abc_slice_duration_days">
+        <item quantity="one">%d రోజు క్రితం</item>
+        <item quantity="other">%d రోజుల క్రితం</item>
+    </plurals>
+    <plurals name="abc_slice_duration_min">
+        <item quantity="one">%d నిమి క్రితం</item>
+        <item quantity="other">%d నిమి క్రితం</item>
+    </plurals>
+    <plurals name="abc_slice_duration_years">
+        <item quantity="one">%d సం క్రితం</item>
+        <item quantity="other">%d సం క్రితం</item>
+    </plurals>
+    <plurals name="kg_password_default_pin_message">
+        <item quantity="one">SIM పిన్‌ని నమోదు చేయండి, మీరు మీ పరికరాన్ని అన్‌లాక్ చేయడానికి తప్పనిసరిగా మీ క్యారియర్‌ను సంప్రదించడానికి ముందు మీకు %d ప్రయత్నం మిగిలి ఉంది.</item>
+        <item quantity="other">SIM పిన్‌ని నమోదు చేయండి. మీకు %d ప్రయత్నలు మిగిలి ఉన్నాయి.</item>
+    </plurals>
+    <plurals name="kg_password_default_puk_message">
+        <item quantity="one">SIM ఇప్పుడు డిసేబుల్ చేయబడింది. కొనసాగడానికి PUK కోడ్ ఎంటర్ చేయండి. SIM శాశ్వతంగా పనిచేయకుండా పోవడానికి ముందు %d ప్రయత్నం మిగిలి ఉంది. వివరాలు కోసం క్యారియర్‌ను సంప్రదించండి.</item>
+        <item quantity="other">SIM ఇప్పుడు డిసేబుల్ చేయబడింది. కొనసాగడానికి PUK కోడ్ ఎంటర్ చేయండి. SIM శాశ్వతంగా పని చేయకుండా పోవడానికి ముందు మీకు %d ప్రయత్నాలు మిగిలి ఉన్నాయి. వివరాలు కోసం క్యారియర్‌ను సంప్రదించండి.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_pin_code">
+        <item quantity="one">తప్పు SIM PIN కోడ్, మీ పరికరాన్ని అన్‌లాక్ చేయడానికి మీరు మీ PUK కోడ్ (PIN అన్‌లాక్ కోడ్) ఎంటర్ చేయడానికి ముందు మీకు %d ప్రయత్నం మిగిలి ఉంది లేదా మీ సర్వీసు ప్రొవైడర్‌ను సంప్రదించండి.</item>
+        <item quantity="other">తప్పు SIM PIN కోడ్, మీ పరికరాన్ని అన్‌లాక్ చేయడానికి మీరు మీ PUK కోడ్ (PIN అన్‌లాక్ కోడ్) ఎంటర్ చేయడానికి ముందు మీకు %d ప్రయత్నాలు మిగిలి ఉన్నాయి లేదా మీ సర్వీసు ప్రొవైడర్‌ను సంప్రదించండి.</item>
+    </plurals>
+    <plurals name="kg_password_wrong_puk_code">
+        <item quantity="one">తప్పు SIM PUK కోడ్, SIM శాశ్వతంగా ఉపయోగించకుండా అయ్యే ముందు మీకు %d ప్రయత్నం మిగిలి ఉంది.</item>
+        <item quantity="other">తప్పు SIM PUK కోడ్, SIM శాశ్వతంగా ఉపయోగించకుండా అయ్యే ముందు మీకు %d ప్రయత్నాలు మిగిలి ఉన్నాయి.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_password">
+        <item quantity="one">%d గంట పాటు పరికరాన్ని అన్‌లాక్ చేయలేదు. పాస్‌వర్డ్‌ని నమోదు చేయండి.</item>
+        <item quantity="other">%d గంటల పాటు పరికరాన్ని అన్‌లాక్ చేయలేదు. పాస్‌వర్డ్‌ని నమోదు చేయండి.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pattern">
+        <item quantity="one">%d గంట పాటు పరికరాన్ని అన్‌లాక్ చేయలేదు. నమూనాను గీయండి.</item>
+        <item quantity="other">%d గంటల పాటు పరికరాన్ని అన్‌లాక్ చేయలేదు. నమూనాను గీయండి.</item>
+    </plurals>
+    <plurals name="kg_prompt_reason_time_pin">
+        <item quantity="one">%d గంట పాటు డివైజ్‌ను అన్‌లాక్ చేయలేదు. పిన్‌ను నిర్ధారించండి.</item>
+        <item quantity="other">%d గంటల పాటు డివైజ్‌ను అన్‌లాక్ చేయలేదు. పిన్‌ను నిర్ధారించండి.</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="one">1 సెకనులో మళ్లీ ప్రయత్నించండి.</item>
+        <item quantity="other">%d సెకన్లలో మళ్లీ ప్రయత్నించండి.</item>
+    </plurals>
+    <plurals name="notification_group_overflow_description">
+        <item quantity="one">లోపల మరో %s నోటిఫికేషన్ ఉంది.</item>
+        <item quantity="other">లోపల మరో %s నోటిఫికేషన్‌లు ఉన్నాయి.</item>
+    </plurals>
+    <plurals name="quick_settings_hotspot_secondary_label_num_devices">
+        <item quantity="one">%d పరికరం</item>
+        <item quantity="other">%d పరికరాలు</item>
+    </plurals>
+    <plurals name="snoozeHourOptions">
+        <item quantity="one">%d గంట</item>
+        <item quantity="two">%d గంటలు</item>
+        <item quantity="few">%d గంటలు</item>
+        <item quantity="other">%d గంటలు</item>
+    </plurals>
+    <plurals name="snoozeMinuteOptions">
+        <item quantity="one">%d నిమిషం</item>
+        <item quantity="few">%d నిమిషాలు</item>
+        <item quantity="other">%d నిమిషాలు</item>
+    </plurals>
+    <plurals name="user_limit_reached_message">
+        <item quantity="one">ఒక వినియోగదారును మాత్రమే సృష్టించగలరు.</item>
+        <item quantity="other">మీరు గరిష్టంగా %d వినియోగదారులను జోడించగలరు.</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="one">%1$d పరికరం కనెక్ట్ చేయబడింది</item>
+        <item quantity="other">%1$d పరికరాలు కనెక్ట్ చేయబడ్డాయి</item>
+    </plurals>
+</resources>

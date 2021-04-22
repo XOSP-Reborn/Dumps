@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_no_wifi">ຕັດການເຊື່ອມຕໍ່ WLAN ແລ້ວ.</string>
+    <string name="accessibility_qs_edit_add_tile_label">%1$s. ແຕະສອງເທື່ອເພື່ອເພີ່ມ.</string>
+    <string name="accessibility_qs_edit_move_tile">ຍ້າຍ %1$s</string>
+    <string name="accessibility_qs_edit_remove_tile">ລຶບ %1$s</string>
+    <string name="accessibility_qs_edit_tile_add">ເພີ່ມ %1$s ໄປຕຳແໜ່ງ %2$d</string>
+    <string name="accessibility_qs_edit_tile_label">ຕຳແໜ່ງ %1$d, %2$s. ແຕະສອງເທື່ອເພື່ອແກ້ໄຂ.</string>
+    <string name="accessibility_qs_edit_tile_move">ຍ້າຍ %1$s ໄປຕຳແໜ່ງ %2$d</string>
+    <string name="accessibility_quick_settings_detail">ການຕັ້ງຄ່າດ່ວນ, %s.</string>
+    <string name="accessibility_quick_settings_not_available">ບໍ່ສາມາດໃຊ້ໄດ້ເນື່ອງຈາກ %s</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">ປິດ WLAN ແລ້ວ.</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">ເປີດ WLAN ແລ້ວ.</string>
+    <string name="accessibility_wifi_off">WLAN ປິດຢູ່.</string>
+    <string name="accessibility_wifi_one_bar">ສັນຍານ WLAN ນຶ່ງຂີດ.</string>
+    <string name="accessibility_wifi_signal_full">ສັນຍານ WLAN ເຕັມ</string>
+    <string name="accessibility_wifi_three_bars">WLAN ສາມຂີດ.</string>
+    <string name="accessibility_wifi_two_bars">ສັນຍານ WLAN ສອງຂີດ.</string>
+    <string name="connected_via_app">ເຊື່ອມ​ຕໍ່​ຜ່ານ %1$s ແລ້ວ</string>
+    <string name="mobile_data_always_on_summary">ເປີດໃຊ້ອິນເຕີເນັດມືຖືໄວ້ຕະຫຼອດ, ເຖິງແມ່ນວ່າ WLAN ຈະເຮັດວຽກຢູ່ກໍຕາມ (ສຳລັບການສະຫຼັບເຄືອຂ່າຍແບບໄວ).</string>
+    <string name="mobile_data_disable_message">ທ່ານຈະບໍ່ມີສິດເຂົ້າເຖິງຂໍ້ມູນ ຫຼື ອິນເຕີເນັດຜ່ານ %s. ອິນເຕີເນັດຈະສາມາດໃຊ້ໄດ້ຜ່ານ WLAN ເທົ່ານັ້ນ.</string>
+    <string name="output_service_bt_wifi">Bluetooth ແລະ WLAN</string>
+    <string name="output_service_wifi">WLAN</string>
+    <string name="quick_settings_cast_no_wifi">ບໍ່ໄດ້ເຊື່ອມຕໍ່ WLAN</string>
+    <string name="quick_settings_wifi_detail_empty_text">ບໍ່​ມີ​ເຄືອ​ຂ່າຍ WLAN ຢູ່</string>
+    <string name="quick_settings_wifi_label">Wi​-Fi</string>
+    <string name="quick_settings_wifi_off_label">Wi​-Fi ປິດ</string>
+    <string name="quick_settings_wifi_on_label">WLAN ເປີດ</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="wifi_disabled_wifi_failure">​ການ​ເຊື່ອມ​ຕໍ່ WLAN ລົ້ມ​ເຫຼວ</string>
+    <string name="wifi_is_off">WLAN ປິດຢູ່</string>
+    <string name="wifi_scan_throttling">ການຈຳກັດການສະແກນ WLAN</string>
+    <string name="wifi_verbose_logging">​ເປີດ​ນຳ​ໃຊ້ການ​ເກັບ​ປະ​ຫວັດ​ Verbose WLAN</string>
+    <string name="wifi_verbose_logging_summary">ເພີ່ມ​ລະ​ດັບ​ການ​ເກັບ​ປະ​ຫວັດ WLAN, ສະ​ແດງ​ຕໍ່ SSID RSSI ​ໃນ​ WLAN Picker</string>
+</resources>

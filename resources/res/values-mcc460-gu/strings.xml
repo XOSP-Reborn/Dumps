@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_data_connection_wifi">વાઇ-ફાઇ</string>
+    <string name="accessibility_no_wifi">WLAN ડિસ્કનેક્ટ થયું.</string>
+    <string name="accessibility_qs_edit_add_tile_label">%1$s. ઉમેરવા માટે બે વાર ટૅપ કરો.</string>
+    <string name="accessibility_qs_edit_move_tile">%1$s ખસેડો</string>
+    <string name="accessibility_qs_edit_remove_tile">%1$s દૂર કરો</string>
+    <string name="accessibility_qs_edit_tile_add">%2$d જગ્યા પર %1$sને ઉમેરો</string>
+    <string name="accessibility_qs_edit_tile_label">સ્થિતિ %1$d, %2$s. સંપાદિત કરવા માટે બે વાર ટૅપ કરો.</string>
+    <string name="accessibility_qs_edit_tile_move">%2$d જગ્યા પર %1$sને ખસેડો</string>
+    <string name="accessibility_quick_settings_detail">ઝડપી સેટિંગ્સ, %s.</string>
+    <string name="accessibility_quick_settings_not_available">%sને કારણે અનુપલબ્ધ છે</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">WLAN બંધ કર્યું.</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">WLAN ચાલુ કર્યું.</string>
+    <string name="accessibility_wifi_off">WLAN બંધ.</string>
+    <string name="accessibility_wifi_one_bar">WLAN એક બાર.</string>
+    <string name="accessibility_wifi_signal_full">પૂર્ણ WLAN સિગ્નલ.</string>
+    <string name="accessibility_wifi_three_bars">WLAN ત્રણ બાર.</string>
+    <string name="accessibility_wifi_two_bars">WLAN બે બાર.</string>
+    <string name="connected_via_app">%1$s દ્વારા કનેક્ટ થયેલ</string>
+    <string name="mobile_data_disable_message">તમને %s મારફતે ડેટા અથવા ઇન્ટરનેટનો ઍક્સેસ મળશે નહીં. ઇન્ટરનેટ માત્ર વાઇ-ફાઇ દ્વારા ઉપલબ્ધ થશે.</string>
+    <string name="output_service_bt_wifi">બ્લૂટૂથ અને વાઇ-ફાઇ</string>
+    <string name="output_service_wifi">વાઇ-ફાઇ</string>
+    <string name="quick_settings_wifi_detail_empty_text">કોઈ વાઇ-ફાઇ નેટવર્ક્સ ઉપલબ્ધ નથી</string>
+    <string name="quick_settings_wifi_label">વાઇ-ફાઇ</string>
+    <string name="quick_settings_wifi_off_label">વાઇ-ફાઇ બંધ</string>
+    <string name="quick_settings_wifi_on_label">વાઇ-ફાઇ ચાલુ</string>
+    <string name="status_bar_settings_wifi_button">વાઇ-ફાઇ</string>
+    <string name="wifi_disabled_wifi_failure">WLAN કનેક્શન નિષ્ફળ</string>
+    <string name="wifi_is_off">વાઇ-ફાઇ બંધ છે</string>
+</resources>

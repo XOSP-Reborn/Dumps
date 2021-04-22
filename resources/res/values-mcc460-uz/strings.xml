@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_data_connection_wifi">WLAN</string>
+    <string name="accessibility_no_wifi">WLAN o‘chiq.</string>
+    <string name="accessibility_qs_edit_add_tile_label">“%1$s” tugmasi. Qo‘shish uchun ustiga ikki marta bosing.</string>
+    <string name="accessibility_qs_edit_move_tile">“%1$s” tugmasini ko‘chirish</string>
+    <string name="accessibility_qs_edit_remove_tile">%1$s tugmasini olib tashlash</string>
+    <string name="accessibility_qs_edit_tile_add">%2$d-joyga buni qo‘shish: %1$s</string>
+    <string name="accessibility_qs_edit_tile_label">%1$d-joy, “%2$s” tugmasi. Tahrirlash uchun ustiga ikki marta bosing.</string>
+    <string name="accessibility_qs_edit_tile_move">%2$d-joyga buni ko‘chirish: %1$s</string>
+    <string name="accessibility_quick_settings_detail">Tezkor sozlamalar, %s.</string>
+    <string name="accessibility_quick_settings_not_available">Mavjud emas, sababi: %s</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">WLAN o‘chirildi.</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">WLAN yoqildi.</string>
+    <string name="accessibility_wifi_off">WLAN o‘chiq.</string>
+    <string name="accessibility_wifi_one_bar">WLAN: bitta ustun</string>
+    <string name="accessibility_wifi_signal_full">WLAN: signal to‘liq</string>
+    <string name="accessibility_wifi_three_bars">WLAN: uchta ustun</string>
+    <string name="accessibility_wifi_two_bars">WLAN: ikkita ustun</string>
+    <string name="connected_via_app">%1$s orqali ulandi</string>
+    <string name="mobile_data_always_on_summary">Mobil internet har doim yoniq tursin, hatto WLAN yoniq bo‘lsa ham (bir tarmoqdan ikkinchisiga tezroq o‘tish uchun).</string>
+    <string name="mobile_data_disable_message">%s orqali internetdan foydalana olmaysiz. Internet faqat WLAN orqali ishlaydi.</string>
+    <string name="output_service_bt_wifi">Bluetooth va WLAN</string>
+    <string name="output_service_wifi">WLAN</string>
+    <string name="quick_settings_cast_no_wifi">WLAN tarmoqqa ulanmagan</string>
+    <string name="quick_settings_wifi_detail_empty_text">Hech qanday WLAN tarmog‘i mavjud emas</string>
+    <string name="quick_settings_wifi_label">WLAN</string>
+    <string name="quick_settings_wifi_off_label">WLAN o‘chiq</string>
+    <string name="quick_settings_wifi_on_label">WLAN yoqilgan</string>
+    <string name="status_bar_settings_wifi_button">WLAN</string>
+    <string name="wifi_disabled_wifi_failure">WLAN ulanishini o‘rnatib bo‘lmadi</string>
+    <string name="wifi_is_off">WLAN o‘chiq</string>
+    <string name="wifi_scan_throttling">WLAN tarmoqni taqsimlab skanlash</string>
+    <string name="wifi_verbose_logging">Batafsil WLAN jurnali</string>
+    <string name="wifi_verbose_logging_summary">WLAN ulanishini tanlashda har bir SSID uchun jurnalda ko‘rsatilsin</string>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_data_connection_wifi">வைஃபை</string>
+    <string name="accessibility_no_wifi">வைஃபை துண்டிக்கப்பட்டது.</string>
+    <string name="accessibility_qs_edit_add_tile_label">%1$s. சேர்க்க, இருமுறை தட்டவும்.</string>
+    <string name="accessibility_qs_edit_move_tile">%1$sஐ நகர்த்தவும்</string>
+    <string name="accessibility_qs_edit_remove_tile">%1$sஐ அகற்றவும்</string>
+    <string name="accessibility_qs_edit_tile_add">நிலைப்பாடு %2$d இல் %1$sஐச் சேர்க்கும்</string>
+    <string name="accessibility_qs_edit_tile_label">நிலை %1$d, %2$s. திருத்த, இருமுறை தட்டவும்.</string>
+    <string name="accessibility_qs_edit_tile_move">நிலைப்பாடு %2$dக்கு %1$sஐ நகர்த்தும்</string>
+    <string name="accessibility_quick_settings_detail">விரைவு அமைப்புகள், %s.</string>
+    <string name="accessibility_quick_settings_not_available">%s என்பதால் தற்போது முடக்கப்பட்டுள்ளது</string>
+    <string name="accessibility_quick_settings_wifi_changed_off">வைஃபை முடக்கப்பட்டது.</string>
+    <string name="accessibility_quick_settings_wifi_changed_on">வைஃபை இயக்கப்பட்டது.</string>
+    <string name="accessibility_wifi_off">வைஃபை முடக்கப்பட்டது.</string>
+    <string name="accessibility_wifi_one_bar">வைஃபை சிக்னல்: ஒரு கோடு.</string>
+    <string name="accessibility_wifi_signal_full">வைஃபை சிக்னல் முழுமையாக உள்ளது.</string>
+    <string name="accessibility_wifi_three_bars">வைஃபை சிக்னல்: மூன்று கோடுகள்.</string>
+    <string name="accessibility_wifi_two_bars">வைஃபை சிக்னல்: இரண்டு கோடுகள்.</string>
+    <string name="connected_via_app">%1$s மூலம் இணைக்கப்பட்டது</string>
+    <string name="mobile_data_disable_message">%s மூலம் டேட்டா அல்லது இணையத்தை உங்களால் பயன்படுத்த முடியாது. வைஃபை வழியாக மட்டுமே இணையத்தைப் பயன்படுத்த முடியும்.</string>
+    <string name="output_service_bt_wifi">புளூடூத் மற்றும் வைஃபை</string>
+    <string name="output_service_wifi">வைஃபை</string>
+    <string name="quick_settings_wifi_connecting_label">WLAN: இணைக்கிற.</string>
+    <string name="quick_settings_wifi_detail_empty_text">வைஃபை நெட்வொர்க்குகள் இல்லை</string>
+    <string name="quick_settings_wifi_label">வைஃபை</string>
+    <string name="quick_settings_wifi_off_label">வைஃபையை முடக்கு</string>
+    <string name="quick_settings_wifi_on_label">வைஃபை இயக்கத்தில்</string>
+    <string name="quick_settings_wifi_scanning_label">WLAN: ஸ்கேன் செய்கிறது</string>
+    <string name="status_bar_settings_wifi_button">வைஃபை</string>
+    <string name="status_bar_wifi">WLAN</string>
+    <string name="status_bar_wifi_hotspot">WLAN hotspot</string>
+    <string name="wifi_disabled_wifi_failure">வைஃபை இணைப்பில் தோல்வி</string>
+    <string name="wifi_is_off">வைஃபை முடக்கத்தில் உள்ளது</string>
+    <string name="wifi_security_short_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_short_wapi_psk">WLAN PSK</string>
+    <string name="wifi_security_wapi_cert">WLAN CERT</string>
+    <string name="wifi_security_wapi_psk">WLAN PSK</string>
+</resources>
